@@ -14,4 +14,3 @@ Paniermehl mit Basilikum, Parmesan und Butter vermischen, Masse auf die Fischfil
 Alles bei 200° C auf mittlerer Schiene 20 Minuten backen.
 
 Dazu passen Backkartoffeln und ein frischer Salat mit Jogurtsauce.
-

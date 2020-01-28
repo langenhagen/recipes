@@ -22,4 +22,3 @@ Gouda reiben, Dill schneiden und beides unter die Sauce rühren.
 In Auflaufform abwechselnd Sauce, Lasagneplatten, Lachs und Kürbis schichten.
 Mit einer Lasagneplatte abschließen und restliche Sauce darüber verteilen.
 In vorgeheiztem Backofen bei 200° C ca. 45 Minuten backen.
-

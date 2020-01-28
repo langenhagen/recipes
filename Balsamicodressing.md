@@ -11,4 +11,3 @@ Balsamico mit Wasser Honig und Senf in ein hohes Gefäß füllen und mit Schneeb
 Olivenöl einfließen lassen.
 Mit Salz und Pfeffer abschmecken.
 Bei Bedarf Wasser hinzugeben.
-

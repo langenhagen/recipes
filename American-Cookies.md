@@ -15,4 +15,3 @@ Butter sanft erwärmen, sodass sie leicht knetbar wird.
 Butter, Zucker, braunen Zucker und Vanillearoma in Schüssel cremig einschlagen. Eier einzeln zugeben und gut unterrühren.
 Nun Mehlmischung Portionsweise untermengen. Zum Schluss Schokolade dazu geben. 1 gehäuften EL Teig auf nicht eingefettetes Backblech setzen.
 Circa 15 Minuten bei vorgeheizten 150° C heizen.
-

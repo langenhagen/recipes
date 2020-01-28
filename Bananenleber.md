@@ -23,4 +23,3 @@ Gegebenenfalls Soße mit Mehl binden.
 Bananenscheiben hinzu.
 
 Schmeckt super.
-

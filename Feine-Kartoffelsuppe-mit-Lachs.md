@@ -21,4 +21,3 @@ Kartoffeln pürieren, Lauch und Lachs hinzu und würzen.
 Restliche Sahne steif schlagen und unter die Suppe ziehen.
 Mit dem klein geschnittenen Dill garnieren.
 Dazu schmeckt Baguette.
-

@@ -32,4 +32,3 @@ Alles pürieren.
 Zum Essen nach Belieben etwas Orangensaft und einrühren, je nach Geschmack saure Sahne auf den Teller.
 
 Wenn möglich, noch mit etwas Kürbiskernöl beträufeln.
-

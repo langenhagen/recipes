@@ -31,4 +31,3 @@ Bei geschlossenem Deckel 20 Minuten schmoren lassen.
 
 Chili mit Kernen in den Topf und würzen.
 So lange offen köcheln lassen, bis die gewünschte Konsistenz erreicht ist.
-

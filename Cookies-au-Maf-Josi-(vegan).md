@@ -10,4 +10,3 @@
 - 125g Zartbitterschokolade (70%ige)
 
 Alles mixen und bei 150° C 25 Minuten backen.
-

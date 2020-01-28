@@ -19,4 +19,3 @@ Erbsen hinzu.
 Salzen, pfeffern.
 
 Kann man auch sehr gut mit Kartoffeln oder Nudeln machen.
-

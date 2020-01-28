@@ -21,5 +21,3 @@ Alles pürieren.
 Lachs klein würfeln, salzen, pfeffern und mit Koriander würzen.
 Lachs kurz in Öl anbraten.
 Lachs und Spinat zur suppe hinzugeben und mit Cayennepfeffer würzen.
-
-

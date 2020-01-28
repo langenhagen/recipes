@@ -22,4 +22,3 @@ Brühe, Tomaten, Tomatenmark hinzu mit Salz und Pfeffer würzen und 1-1¼ Stunde
 Abschmecken.
 
 Dazu passen sehr gut Kartoffeln, Kartoffelbrei oder Klöße.
-

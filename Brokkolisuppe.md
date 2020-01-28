@@ -15,4 +15,3 @@ Abschließend alles mit Stabmixer durchmixen und mit Salz & Pfeffer abschmecken.
 Optional Sahne unterrühren.
 
 Als Deko eignen sich Semmelwürfel oder Speckwürfel.
-

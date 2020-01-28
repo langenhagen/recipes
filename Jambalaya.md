@@ -30,4 +30,3 @@ Tomaten in kleine Stücke geben und mit dem Saft in den Topf geben.
 Das Ganze unter ständigem Rühren 10 Minuten köcheln lassen.
 Den Rohen Reis und die Brühe in den Topf geben und alles 20 Minuten köcheln lassen.
 Die geschälten Garnelen unter die Reismischung heben und alles noch etwa 15 Minuten köcheln lassen.
-

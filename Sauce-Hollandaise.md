@@ -13,4 +13,3 @@ Eigelb mit Zitronensaft, Wasser und Salz in einem Topf in einem heißen Wasserba
 Inhalt mit dem Schneebesen gut verrühren.
 Topf aus dem Wasserbad nehmen und langsam unter Rühren Butter hinzu gießen.
 Mit Salz, Pfeffer und Cayennepfeffer abschmecken und frisch servieren.
-

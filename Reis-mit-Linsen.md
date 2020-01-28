@@ -16,4 +16,3 @@ Tomaten stückeln und hinzu geben.
 Schicken in Streifen zerreißen und in die Pfanne hinein geben.
 Petersilie hinzu, mit Salz, Cayennepfeffer und Kreuzkümmel würzen.
 Mit einem Stück Butter servieren.
-

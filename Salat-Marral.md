@@ -20,5 +20,3 @@ Blattsalat mit Salatgurkenscheiben, Gewürzgurkenscheiben und Tomaten, auf den T
 Darauf gebratenes Gemüse tun, Dressing hinzu und darüber Nüsse bzw Kerne streuen.
 
 Optional kann man frisches helles Brot im restlichen Öl anbraten und dazu servieren.
-
-

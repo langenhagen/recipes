@@ -7,4 +7,3 @@
 Eier schaumig schlagen.
 Restliche Zutaten unterrühren.
 Alles bei 160° für 12 Minuten backen.
-

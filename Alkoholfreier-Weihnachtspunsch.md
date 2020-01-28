@@ -20,5 +20,3 @@ Rotbuschtee und Schwarztee kurz im Topf mitziehen lassen.
 Alles für 20 Minuten köcheln lassen.
 Mit Apfelsaft hinzu, Zitronen- und Orangensaft hinzu.
 Mit Honig süßen.
-
-

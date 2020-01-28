@@ -12,4 +12,3 @@ Alles in Auflaufform packen und bei 170° C 45 Minuten backen.
 Gern auch mit grob geriebenem Käse überbacken.
 
 Dazu schmecken mehlig gekochte Kartoffeln.
-

@@ -15,4 +15,3 @@ Walnüsse, Pinienkerne Knoblauch, Salz und Pfeffer und Parmesan im Mörser zerkl
 Nudeln mit der Soße mischen, fertig.
 
 Man kann einen Teil der Walnüsse und Pinienkerne rösten und über den Teller streuen.
-

@@ -21,4 +21,3 @@ Gewürze, Ingwer und Chili hinzu und für 30 Sekunden mitdünsten.
 Tomaten, Linsen, Brühe, Kokosmilch und Zitronensaft hinzu.
 Aufkochen und bei kleiner Hitze 30 Minuten köcheln lassen.
 Abschließend abschmecken und mit gutem warmen Brot servieren.
-

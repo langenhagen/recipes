@@ -13,4 +13,3 @@ Alles weich kochen.
 Kürbis zerkleinern und noch 10 Minuten mit kochen lassen.
 Creme Fraîche hinzu und alles pürieren.
 Salz, Pfeffer hinzu.
-

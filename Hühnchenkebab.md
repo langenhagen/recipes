@@ -23,4 +23,3 @@ Berberitzen sehr kurz in Butter anmachen und Zucker hinzu geben machen.
 Berberitzen zum Reis geben.
 
 Kräuter und die verbliebene Zwiebel können direkt zur Speise gereicht werden.
-

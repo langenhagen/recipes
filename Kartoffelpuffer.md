@@ -14,4 +14,3 @@ Alles gut verrühren.
 Reibekuchen jeweils mit viel Braten und auf Küchenpapier abtropfen lassen.
 
 Dazu Apfelmus oder was dir beliebt.
-

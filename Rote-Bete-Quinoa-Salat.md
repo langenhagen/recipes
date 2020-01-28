@@ -20,4 +20,3 @@ Rote Bete, Feta-Käse und den Apfel in mundgerechte Stücke schneiden.
 Alles mit der Quinoa und dem Dressing vermischen und abkühlen lassen.
 
 Die Walnüsse anrösten und über den Salat streuen.
-

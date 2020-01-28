@@ -17,4 +17,3 @@ Knoblauch hinzu pressen.
 Mit Salz, Pfeffer und Gewürzen abschmecken und alles vermengen.
 Zucchini mit der Frischkäse-Masse füllen und Käse rüber reiben.
 Zucchini in Auflaufform bei 200° rund 25 Minuten backen.
-

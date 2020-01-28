@@ -36,4 +36,3 @@ Bechamelsauce darüber gießen und restlichen Käse drüber streuen.
 
 Form dann für 25 Minuten bei 225° C mit Alufolie in den Backofen.
 Alufolie nach 15 abnehmen.
-

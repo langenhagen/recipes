@@ -22,4 +22,3 @@ Mit Salz, Pfeffer, Honig und Balsamessig würzen.
 
 Penne abgießen und sofort mit dem Gemüse mischen.
 Parmesan darüber reiben, fertig.
-

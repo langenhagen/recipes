@@ -20,4 +20,3 @@ Schlagsahne und Frischkäse hinzu, alles aufkochen und ein wenig köcheln lassen
 Lorbeerblätter, Piment, Nelken und Cayennepfeffer hinzu geben.
 Würstchen in kleine Stückchen schneiden und hinzu geben.
 Gut mit Salz, Pfeffer und Tabasco würzen.
-

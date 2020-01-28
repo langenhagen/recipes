@@ -11,4 +11,3 @@
 
 Schalotte fein würfeln, Feta und Rote Bete in Mundgerechte Stücke würfeln.
 Kichererbsen abtropfen und alles vermengen.
-
