@@ -4,7 +4,7 @@ title: 3-Zutaten Brownies
 date: 2020-02-22
 categories: recipe
 ---
-﻿# 3 Zutaten Brownies
+# 3-Zutaten Brownies
 
 - 3 Eier
 - 100g Mehl

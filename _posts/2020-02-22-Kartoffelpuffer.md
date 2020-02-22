@@ -4,7 +4,7 @@ title: Kartoffelpuffer
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Kartoffelpuffer
+# Kartoffelpuffer
 
 - 12 große Kartoffeln
 - 2 Eier

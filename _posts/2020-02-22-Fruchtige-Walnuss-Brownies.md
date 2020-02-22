@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Fruchtige Walnuss Brownies
+title: Fruchtige Walnuss-Brownies
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Fruchtige Walnuss Brownies
+# Fruchtige Walnuss-Brownies
 
 - 200g Soft-Aprikosen
 - 100ml Apfelsaft

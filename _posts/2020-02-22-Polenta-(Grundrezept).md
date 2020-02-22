@@ -4,7 +4,7 @@ title: Polenta (Grundrezept)
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Polenta (Grundrezept)
+# Polenta (Grundrezept)
 
 - 2 Tassen Maismehl
 - 6 Tassen Wasser

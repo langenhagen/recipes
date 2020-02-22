@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kürbis Kartoffelsuppe mit Knoblauch
+title: Kürbis-Kartoffelsuppe mit Knoblauch
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Kürbis-Kartoffelsuppe mit Knoblauch
+# Kürbis-Kartoffelsuppe mit Knoblauch
 
 - 3 Kartoffeln
 - 1 Zwiebel

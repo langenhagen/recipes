@@ -4,7 +4,7 @@ title: American Cookies
 date: 2020-02-22
 categories: recipe
 ---
-﻿# American Cookies
+# American Cookies
 
 - 2 Eier
 - 120g Zucker

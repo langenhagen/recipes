@@ -4,7 +4,7 @@ title: Chilischrimps mit Avocadomus
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Chilischrimps mit Avocadomus
+# Chilischrimps mit Avocadomus
 
 - 500g Schrimps
 - 1-2 Chilischoten

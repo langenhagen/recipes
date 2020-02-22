@@ -4,7 +4,7 @@ title: 3-Minuten Brownies
 date: 2020-02-22
 categories: recipe
 ---
-﻿# 3-Minuten Brownies
+# 3-Minuten Brownies
 
 - 3 ½ EL Mehl
 - ½ EL Stärke

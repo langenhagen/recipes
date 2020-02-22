@@ -4,7 +4,7 @@ title: Einfacher Schokokuchen
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Einfacher Schokokuchen
+# Einfacher Schokokuchen
 
 - 2 Eier
 - 300g Zucker

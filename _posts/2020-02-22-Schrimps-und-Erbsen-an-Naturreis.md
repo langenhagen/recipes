@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Schrimps-und-Erbsen-an-Naturreis
+title: Schrimps und Erbsen an Naturreis
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Schrimps und Erbsen an Naturreis
+# Schrimps und Erbsen an Naturreis
 
 - 400g Schrimps
 - 1 Dose Erbsen

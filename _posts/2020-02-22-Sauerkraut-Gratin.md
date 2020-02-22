@@ -4,7 +4,7 @@ title: Sauerkraut-Gratin
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Sauerkraut-Gratin
+# Sauerkraut-Gratin
 
 - 500g Bandnudeln
 - 500g Sauerkraut

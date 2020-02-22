@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tagliatelle-an-Pilzsauce
+title: Tagliatelle an Pilzsauce
 date: 2020-02-22
 categories: recipe
 ---
-﻿Tagliatelle an Pilzsauce
+# ﻿Tagliatelle an Pilzsauce
 
 - 1 Zwiebel
 - 1 Bund Frühlingszwiebeln

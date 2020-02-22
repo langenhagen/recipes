@@ -4,7 +4,7 @@ title: Einfache Kürbissuppe
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Einfache Kürbissuppe
+# Einfache Kürbissuppe
 
 - 1 kleiner Kürbis
 - 2 Zwiebeln

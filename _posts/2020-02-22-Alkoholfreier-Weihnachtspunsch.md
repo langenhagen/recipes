@@ -4,7 +4,7 @@ title: Alkoholfreier Weihnachtspunsch
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Alkoholfreier Weihnachtspunsch
+# Alkoholfreier Weihnachtspunsch
 
 - 1 Vanilleschote
 - 1 Zimtstange

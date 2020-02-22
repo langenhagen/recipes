@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cookies au Maf Josi (vegan)
+title: Cookies au Maf Josi
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Cookies au Maf Josi (vegan)
+# Cookies au Maf Josi
 
 - 200g Dinkelmehl,
 - 100g Margarine,

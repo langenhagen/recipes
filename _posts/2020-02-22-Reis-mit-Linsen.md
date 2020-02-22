@@ -4,7 +4,7 @@ title: Reis mit Linsen
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Reis mit Linsen
+# Reis mit Linsen
 
 - 1 Tasse Reis
 - 1 kleine Tasse Linsen

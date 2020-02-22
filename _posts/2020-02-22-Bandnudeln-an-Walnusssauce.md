@@ -4,7 +4,7 @@ title: Bandnudeln an Walnusssauce
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Bandnudeln an Walnusssauce
+# Bandnudeln an Walnusssauce
 
 - 250g Bandnudeln
 - 75g Walnüsse

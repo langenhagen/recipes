@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tomatensuppe-mit-Kokosmilch
+title: Tomatensuppe mit Kokosmilch
 date: 2020-02-22
 categories: recipe
 ---
-﻿Tomatensuppe mit Kokosmilch
+# Tomatensuppe mit Kokosmilch
 
 - 1 Zwiebel
 - 800g Dosentomaten

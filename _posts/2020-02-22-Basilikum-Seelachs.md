@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Basilikum Seelachs
+title: Basilikum-Seelachs
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Basilikum-Seelachs
+# Basilikum-Seelachs
 
 - 3 Seelachsfilets
 - 1 EL Zitronensaft

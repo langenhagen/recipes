@@ -4,7 +4,7 @@ title: Brokkolisuppe
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Brokkolisuppe
+# Brokkolisuppe
 
 - 250 g Brokkoli
 - 1l Gemüsebrühe

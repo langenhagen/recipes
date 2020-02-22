@@ -4,7 +4,7 @@ title: Bulgarische grüne Bohnen mit Fleisch
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Bulgarische grüne Bohnen mit Fleisch
+# Bulgarische grüne Bohnen mit Fleisch
 
 - 800g frische grüne Bohnen
 - 500g Rindfleisch/Hammelfleisch

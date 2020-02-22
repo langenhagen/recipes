@@ -4,7 +4,7 @@ title: Penne mit Mais und Paprika
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Penne mit Mais und Paprika
+# Penne mit Mais und Paprika
 
 - 200g Penne
 - 1 grüne Paprika

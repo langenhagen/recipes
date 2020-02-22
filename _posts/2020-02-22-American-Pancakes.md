@@ -4,7 +4,7 @@ title: American Pancakes
 date: 2020-02-22
 categories: recipe
 ---
-﻿# American Pancakes
+# American Pancakes
 
 - 2 Tassen Mehl
 - 2 EL Zucker

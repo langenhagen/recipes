@@ -4,7 +4,7 @@ title: Kürbis-Lachs-Lasagne
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Kürbis-Lachs Lasagne
+# Kürbis-Lachs-Lasagne
 
 - 1 Butternut Kürbis
 - 1 Zwiebel

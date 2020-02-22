@@ -4,7 +4,7 @@ title: Griesbrei
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Griesbrei
+# Griesbrei
 
 - 100g Gries
 - 1l Milch

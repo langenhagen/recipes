@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Rote Bete Quinoa-Salat
+title: Rote Bete-Quinoa-Salat
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Rote Bete-Quinoa-Salat
+# Rote Bete-Quinoa-Salat
 
 - 1 große rote Bete
 - 1 Apfel

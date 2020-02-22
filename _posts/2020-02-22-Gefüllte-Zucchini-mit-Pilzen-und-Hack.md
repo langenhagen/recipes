@@ -4,7 +4,7 @@ title: Gefüllte Zucchini mit Pilzen und Hack
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Gefüllte Zucchini mit Pilzen und Hack
+# Gefüllte Zucchini mit Pilzen und Hack
 
 - 4 mittelgroße Zucchini
 - Eine Handvoll Champignons, fein gewürfelt

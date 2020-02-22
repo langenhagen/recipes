@@ -4,7 +4,7 @@ title: Sauce Hollandaise
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Sauce Hollandaise
+# Sauce Hollandaise
 
 - 250g Butter
 - 3 Eigelb

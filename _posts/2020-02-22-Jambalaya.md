@@ -4,7 +4,7 @@ title: Jambalaya
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Jambalaya
+# Jambalaya
 
 - 200g Hähnchenbrustfilets
 - 400g Knoblauchwurst

@@ -4,7 +4,7 @@ title: Brokkoli mit Kartoffeln und Knackern
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Brokkoli mit Kartoffeln und Knackern
+# Brokkoli mit Kartoffeln und Knackern
 
 - 400g Brokkoli
 - 400g Kartoffeln, mehlig kochend

@@ -4,7 +4,7 @@ title: Salat Marral
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Salat Marral
+# Salat Marral
 
 - 1 kleine Süßkartoffel
 - 1 kleine Zucchini

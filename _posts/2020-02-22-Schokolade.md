@@ -4,7 +4,7 @@ title: Schokolade
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Schokolade
+# Schokolade
 
 - 100g hochwertiges Kakaopulver, besser gute Kakaomasse
 - 150g Kokosfett, besser gute Kakaobutter

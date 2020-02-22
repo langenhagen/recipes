@@ -4,7 +4,7 @@ title: Eierkuchen
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Eierkuchen
+# Eierkuchen
 
 - 8 Eier
 - 200g Mehl

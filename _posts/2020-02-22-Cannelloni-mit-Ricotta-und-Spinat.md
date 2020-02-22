@@ -4,7 +4,7 @@ title: Cannelloni mit Ricotta und Spinat
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Cannelloni mit Ricotta und Spinat
+# Cannelloni mit Ricotta und Spinat
 
 - 1 Packung Cannelloni
 - 800g gestückelte Dosentomaten

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Zucchinistreifen-an-Spaghetti
+title: Zucchinistreifen an Spaghetti
 date: 2020-02-22
 categories: recipe
 ---
-﻿Zucchinistreifen an Spaghetti
+# Zucchinistreifen an Spaghetti
 
 - Spaghetti
 - Olivenöl

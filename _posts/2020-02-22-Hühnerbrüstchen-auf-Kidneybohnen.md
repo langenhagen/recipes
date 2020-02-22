@@ -4,7 +4,7 @@ title: Hühnerbrüstchen auf Kidneybohnen
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Hühnerbrüstchen auf Kidneybohnen
+# Hühnerbrüstchen auf Kidneybohnen
 
 - 4 Hühnerbrustfilets
 - 2 EL Olivenöl

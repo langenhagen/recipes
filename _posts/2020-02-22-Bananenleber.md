@@ -4,7 +4,7 @@ title: Bananenleber
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Bananenleber
+# Bananenleber
 
 - 500g Leber
 - 1 Zwiebel

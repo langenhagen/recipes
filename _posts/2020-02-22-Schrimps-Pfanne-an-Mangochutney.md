@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Schrimps-Pfanne-an-Mangochutney
+title: Schrimps-Pfanne an Mangochutney
 date: 2020-02-22
 categories: recipe
 ---
-﻿Schrimps-Pfanne an Mangochutney
+# ﻿Schrimps-Pfanne an Mangochutney
 
 - 1 ½  Tassen Reis
 - 400g Schrimps

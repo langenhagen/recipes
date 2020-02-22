@@ -4,7 +4,7 @@ title: Möhren-Ingwer-Honig-Suppe
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Möhren - Ingwer - Honig Suppe
+# Möhren-Ingwer-Honig-Suppe
 
 - 2 Zwiebeln
 - 2 Zehen Knoblauch

@@ -4,7 +4,7 @@ title: Bananenbrot
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Bananenbrot
+# Bananenbrot
 
 - 3 reife Bananen
 - 1 Tasse gemahlene Mandeln

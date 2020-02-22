@@ -4,7 +4,7 @@ title: Schichtkohl
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Schichtkohl
+# Schichtkohl
 
 - 1 kleiner Weißkohl
 - 400g Hackfleisch

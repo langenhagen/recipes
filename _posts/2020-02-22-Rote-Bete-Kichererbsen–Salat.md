@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Rote Bete Kichererbsen-Salat
+title: Rote Bete-Kichererbsen-Salat
 date: 2020-02-22
 categories: recipe
 ---
-﻿# Rote Bete – Kichererbsen – Salat
+# Rote Bete-Kichererbsen-Salat
 
 - 400g Kichererbsen
 - 3 Rote Bete, vorgekocht
