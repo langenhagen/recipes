@@ -21,7 +21,7 @@
 title: Andreas Langenhagen's Recipes
 email: andreas@langenhagen.cc
 description: A collection of my, Andreas Langenhagen's, recipes.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "recipes" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
