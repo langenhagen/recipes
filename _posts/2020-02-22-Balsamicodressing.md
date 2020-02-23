@@ -3,6 +3,7 @@ layout: post
 title: Balsamicodressing
 date: 2020-02-22
 categories: recipe
+tags: [salad, dressing]
 ---
 # Balsamicodressing
 

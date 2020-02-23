@@ -3,6 +3,7 @@ layout: post
 title: Cannelloni mit Ricotta und Spinat
 date: 2020-02-22
 categories: recipe
+tags: [pasta, casserole]
 ---
 # Cannelloni mit Ricotta und Spinat
 

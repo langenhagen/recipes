@@ -3,6 +3,7 @@ layout: post
 title: 3-Zutaten Brownies
 date: 2020-02-22
 categories: recipe
+tags: [sweet, baking]
 ---
 # 3-Zutaten Brownies
 

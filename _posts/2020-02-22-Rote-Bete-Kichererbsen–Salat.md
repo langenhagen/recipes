@@ -3,6 +3,7 @@ layout: post
 title: Rote Bete-Kichererbsen-Salat
 date: 2020-02-22
 categories: recipe
+tags: [salad]
 ---
 # Rote Bete-Kichererbsen-Salat
 

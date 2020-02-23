@@ -3,6 +3,7 @@ layout: post
 title: Rote Bete-Quinoa-Salat
 date: 2020-02-22
 categories: recipe
+tags: [salad]
 ---
 # Rote Bete-Quinoa-Salat
 

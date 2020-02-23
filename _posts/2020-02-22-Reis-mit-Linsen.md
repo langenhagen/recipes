@@ -3,6 +3,7 @@ layout: post
 title: Reis mit Linsen
 date: 2020-02-22
 categories: recipe
+tags: [rice]
 ---
 # Reis mit Linsen
 

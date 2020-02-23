@@ -3,6 +3,7 @@ layout: post
 title: Hühnersuppe mit Erbsen
 date: 2020-02-22
 categories: recipe
+tags: [soup]
 ---
 # Hühnersuppe mit Erbsen
 

@@ -3,6 +3,7 @@ layout: post
 title: Tomatensuppe mit Kokosmilch
 date: 2020-02-22
 categories: recipe
+tags: [soup]
 ---
 # Tomatensuppe mit Kokosmilch
 

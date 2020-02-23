@@ -3,6 +3,7 @@ layout: post
 title: Chilischrimps mit Avocadomus
 date: 2020-02-22
 categories: recipe
+tags: [pasta]
 ---
 # Chilischrimps mit Avocadomus
 

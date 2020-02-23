@@ -3,6 +3,7 @@ layout: post
 title: Spaghetti Carbonara au Andi
 date: 2020-02-22
 categories: recipe
+tags: [pasta]
 ---
 # Spaghetti Carbonara au Andi
 

@@ -3,8 +3,9 @@ layout: post
 title: Tomaten-Mett-Pfanne mit Gnocchi
 date: 2020-02-22
 categories: recipe
+tags: []
 ---
-# ﻿Tomaten-Mett Pfanne mit Gnocchi
+# Tomaten-Mett Pfanne mit Gnocchi
 
 - 1 große Zwiebel
 - 1kg kleine Tomaten

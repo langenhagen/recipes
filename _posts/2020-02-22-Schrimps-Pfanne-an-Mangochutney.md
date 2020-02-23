@@ -3,17 +3,19 @@ layout: post
 title: Schrimps-Pfanne an Mangochutney
 date: 2020-02-22
 categories: recipe
+tags: []
 ---
-# ﻿Schrimps-Pfanne an Mangochutney
+# Schrimps-Pfanne an Mangochutney
 
-- 1 ½  Tassen Reis
+- 1 ½ Tassen Reis
 - 400g Schrimps
 - 1 Zwiebel
 - 1 kleine Dose Mais
 - 6-8 Ringe Ananas
 - 1 rote Paprika
 - 1 Glas Mangochutney
-- Salz, Cayennepfeffer
+- Salz
+- Cayennepfeffer
 - 1-2 getrocknete, frisch geriebene Chilis
 - Currypulver
 - Öl

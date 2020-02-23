@@ -3,6 +3,7 @@ layout: post
 title: Hühnerbrüstchen auf Kidneybohnen
 date: 2020-02-22
 categories: recipe
+tags: []
 ---
 # Hühnerbrüstchen auf Kidneybohnen
 

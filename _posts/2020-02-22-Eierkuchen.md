@@ -3,6 +3,7 @@ layout: post
 title: Eierkuchen
 date: 2020-02-22
 categories: recipe
+tags: [sweet, breakfast]
 ---
 # Eierkuchen
 

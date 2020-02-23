@@ -3,6 +3,7 @@ layout: post
 title: Zucchinisuppe
 date: 2020-02-22
 categories: recipe
+tags: [soup]
 ---
 # Zucchinisuppe
 

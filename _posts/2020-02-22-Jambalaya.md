@@ -3,6 +3,7 @@ layout: post
 title: Jambalaya
 date: 2020-02-22
 categories: recipe
+tags: [rice]
 ---
 # Jambalaya
 

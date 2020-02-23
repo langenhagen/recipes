@@ -3,6 +3,7 @@ layout: post
 title: Alkoholfreier Weihnachtspunsch
 date: 2020-02-22
 categories: recipe
+tags: [sweet, drink]
 ---
 # Alkoholfreier Weihnachtspunsch
 
