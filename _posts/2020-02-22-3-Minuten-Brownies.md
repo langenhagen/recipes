@@ -7,7 +7,7 @@ tags: [sweet, baking]
 ---
 # 3-Minuten Brownies
 
-- 3 ½ EL Mehl
+- 3½ EL Mehl
 - ½ EL Stärke
 - 4 EL Zucker
 - 2 EL Kakao

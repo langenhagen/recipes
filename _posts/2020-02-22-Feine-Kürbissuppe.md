@@ -9,7 +9,7 @@ tags: [soup]
 
 - 1 Hokkaido Kürbis
 - 1 Butternut Kürbis
-- 2 ½ l Brühe
+- 2½l Brühe
 - 4 Kartoffeln, mehlig kochend
 - 2 Zehen Knoblauch
 - 1 Ingwerwurzel
@@ -20,8 +20,8 @@ tags: [soup]
 - Koriander
 - 1 Vanilleschote
 - Salz, Pfeffer
-- 200 ml Schlagsahne
-- 200 ml Saure Sahne
+- 200ml Schlagsahne
+- 200ml Saure Sahne
 - Orangensaft
 - Öl
 

@@ -7,7 +7,7 @@ tags: [soup]
 ---
 # Brokkolisuppe
 
-- 250 g Brokkoli
+- 250g Brokkoli
 - 1l Gemüsebrühe
 - 1 Knoblauchzehe
 - 1 Zwiebel

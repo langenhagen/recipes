@@ -10,7 +10,7 @@ tags: [pasta]
 - 1 Zwiebel
 - 1 Bund Frühlingszwiebeln
 - 250g Champignons
-- 400 ml Schlagsahne
+- 400ml Schlagsahne
 - Ein paar Streifen Rohschinken
 - Olivenöl
 - 3 Zehen Knoblauch

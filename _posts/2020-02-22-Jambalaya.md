@@ -18,7 +18,7 @@ tags: [rice]
 - 3 Lorbeerblätter
 - 3 Körner Piment
 - 2 TL getrockneten Thymian
--  ½ TL Cayennepfeffer
+- ½ TL Cayennepfeffer
 - ½ TL gemahlenen Pfeffer
 - ½ TL Kreuzkümmel
 - 1 TL Salz

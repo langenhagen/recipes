@@ -17,7 +17,7 @@ tags: []
 - 1 kleine Dose Tomaten
 - Salz, viel Pfeffer
 - Bohnenkraut
-- 2EL Tomatenmark
+- 2 EL Tomatenmark
 - Öl
 
 Fleisch mundgerecht stückeln, Zwiebeln würfeln, Bohnen nach Belieben schneiden.  

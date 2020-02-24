@@ -12,7 +12,7 @@ tags: [soup]
 - 1kg Möhren
 - 4 Stück Ingwer, wallnussgroß
 - 2-3 Stangen Staudensellerie
-- 1 ½ Liter Gemüsebrühe
+- 1½ Liter Gemüsebrühe
 - 2 EL Honig
 - 4 EL Crème fraîche
 - 1-2 Zitronen

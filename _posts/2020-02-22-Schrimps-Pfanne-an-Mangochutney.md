@@ -7,7 +7,7 @@ tags: []
 ---
 # Schrimps-Pfanne an Mangochutney
 
-- 1 ½ Tassen Reis
+- 1½ Tassen Reis
 - 400g Schrimps
 - 1 Zwiebel
 - 1 kleine Dose Mais

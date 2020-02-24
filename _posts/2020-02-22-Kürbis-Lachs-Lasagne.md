@@ -12,7 +12,7 @@ tags: [casserole, fish]
 - 200g Lachs, geräuchert
 - 200g Gouda
 - 250g Lasagneplatten
-- ½  Bund Dill
+- ½ Bund Dill
 - 250ml Sahne
 - 500ml Gemüsebrühe
 - Butter
