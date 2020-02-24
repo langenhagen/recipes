@@ -23,6 +23,13 @@ tags: []
 - 1 Zitrone (ungespritzt)
 - 1 Bund Petersilie (glatt)
 
-Artischocken abtropfen lassen und halbieren. Zwiebel vierteln. Tomaten in dicke Scheiben, Zucchini in Stücke schneiden. Speck stückeln. Vorbereitetes Gemüse, Knoblauch, Speck, Oliven, Kräuter auf dem Blech verteilen.
-Hähnchenbrust halbieren, Keulchen durchschneiden. Zitronenschale in Scheiben abraspeln und beiseite legen. Halbe Zitrone Pressen. Fleisch mit Saft beträufeln, Salz, Pfeffer dazu.
-Aufs Blech und bei 180 Grad eine Stunde im Ofen braten.
+Artischocken abtropfen lassen und halbieren.  
+Zwiebel vierteln.  
+Tomaten in dicke Scheiben, Zucchini in Stücke schneiden.  
+Speck stückeln.  
+Vorbereitetes Gemüse, Knoblauch, Speck, Oliven, Kräuter auf dem Blech verteilen.  
+Hähnchenbrust halbieren, Keulchen durchschneiden.  
+Zitronenschale in Scheiben abraspeln und beiseite legen.  
+Halbe Zitrone Pressen.  
+Fleisch mit Saft beträufeln, Salz, Pfeffer dazu.  
+Aufs Blech und bei 180 Grad eine Stunde im Ofen braten.  

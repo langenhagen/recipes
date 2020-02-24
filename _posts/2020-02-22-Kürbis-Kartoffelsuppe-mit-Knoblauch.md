@@ -15,8 +15,8 @@ tags: [soup]
 - Salz, Pfeffer
 - 1l Gemüsebrühe
 
-Kartoffeln, Zwiebel, Knoblauch schälen, klein schneiden und in einen Topf mit Brühe geben.
-Alles weich kochen.
-Kürbis zerkleinern und noch 10 Minuten mit kochen lassen.
-Creme Fraîche hinzu und alles pürieren.
-Salz, Pfeffer hinzu.
+Kartoffeln, Zwiebel, Knoblauch schälen, klein schneiden und in einen Topf mit Brühe geben.  
+Alles weich kochen.  
+Kürbis zerkleinern und noch 10 Minuten mit kochen lassen.  
+Creme Fraîche hinzu und alles pürieren.  
+Salz, Pfeffer hinzu.  

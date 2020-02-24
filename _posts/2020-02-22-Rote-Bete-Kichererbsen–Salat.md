@@ -16,5 +16,5 @@ tags: [salad]
 - Saft einer Zitrone oder einer Limette
 - Pfeffer
 
-Schalotte fein würfeln, Feta und Rote Bete in Mundgerechte Stücke würfeln.
-Kichererbsen abtropfen und alles vermengen.
+Schalotte fein würfeln, Feta und Rote Bete in Mundgerechte Stücke würfeln.  
+Kichererbsen abtropfen und alles vermengen.  

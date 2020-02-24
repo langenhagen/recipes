@@ -25,17 +25,17 @@ tags: [soup]
 - Orangensaft
 - Öl
 
-Beide Kürbisse entkernen und grob würfeln.
-Knoblauch klein schneiden.
-Kartoffeln schälen und würfeln.
-Ingwer klein schneiden.
-Kürbisse in einer Pfanne mit dem Knoblauch und etwas Öl anbraten.
-In einem großen Topf Gemüsebrühe aufkochen, Kürbis und Kartoffeln hinzu geben.
-Mark der Vanilleschote auskratzen und mit dem Ingwer in den Topf geben.
-20 Minuten köcheln lassen, die Vanilleschote mitziehen lassen.
-Gewürze und Schlagsahne hinzu, Vanilleschote heraus nehmen.
-Alles pürieren.
-
-Zum Essen nach Belieben etwas Orangensaft und einrühren, je nach Geschmack saure Sahne auf den Teller.
-
-Wenn möglich, noch mit etwas Kürbiskernöl beträufeln.
+Beide Kürbisse entkernen und grob würfeln.  
+Knoblauch klein schneiden.  
+Kartoffeln schälen und würfeln.  
+Ingwer klein schneiden.  
+Kürbisse in einer Pfanne mit dem Knoblauch und etwas Öl anbraten.  
+In einem großen Topf Gemüsebrühe aufkochen, Kürbis und Kartoffeln hinzu geben.  
+Mark der Vanilleschote auskratzen und mit dem Ingwer in den Topf geben.  
+20 Minuten köcheln lassen, die Vanilleschote mitziehen lassen.  
+Gewürze und Schlagsahne hinzu, Vanilleschote heraus nehmen.  
+Alles pürieren.  
+  
+Zum Essen nach Belieben etwas Orangensaft und einrühren, je nach Geschmack saure Sahne auf den Teller.  
+  
+Wenn möglich, noch mit etwas Kürbiskernöl beträufeln.  

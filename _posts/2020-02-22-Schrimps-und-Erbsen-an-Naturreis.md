@@ -16,10 +16,10 @@ tags: [rice]
 - 1 Limette
 - Salz, Pfeffer, Paprika Rosenscharf
 
-Reis kochen.
-Möhren in Scheiben schneiden und langsam anbraten.
-Schrimps hinzu und etwas braten lassen.
-Erbsen hinzu, etwas braten lassen.
-Salz, Pfeffer & Paprika hinzu.
-Weißwein und Limettensaft hinzu und etwas ziehen lassen.
-Mit Chicoréeblättern servieren.
+Reis kochen.  
+Möhren in Scheiben schneiden und langsam anbraten.  
+Schrimps hinzu und etwas braten lassen.  
+Erbsen hinzu, etwas braten lassen.  
+Salz, Pfeffer & Paprika hinzu.  
+Weißwein und Limettensaft hinzu und etwas ziehen lassen.  
+Mit Chicoréeblättern servieren.  

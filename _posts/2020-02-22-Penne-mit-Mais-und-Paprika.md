@@ -19,13 +19,13 @@ tags: [pasta]
 - Salz, Pfeffer
 - Parmesan
 
-Paprikas in mundgerechte feine Streifen schneiden, Tomaten ebenso nur feiner.
-Maiskörner vom Kolben trennen.
-
-Nudeln kochen.
-
-Paprika, Tomaten, Mais und Kapern im Öl in der Pfanne 10 Minuten dünsten.
-Mit Salz, Pfeffer, Honig und Balsamessig würzen.
-
-Penne abgießen und sofort mit dem Gemüse mischen.
-Parmesan darüber reiben, fertig.
+Paprikas in mundgerechte feine Streifen schneiden, Tomaten ebenso nur feiner.  
+Maiskörner vom Kolben trennen.  
+  
+Nudeln kochen.  
+  
+Paprika, Tomaten, Mais und Kapern im Öl in der Pfanne 10 Minuten dünsten.  
+Mit Salz, Pfeffer, Honig und Balsamessig würzen.  
+  
+Penne abgießen und sofort mit dem Gemüse mischen.  
+Parmesan darüber reiben, fertig.  

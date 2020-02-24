@@ -15,9 +15,9 @@ tags: [fish]
 - 1 EL Butter
 - Salz, Pfeffer
 
-Seelachsfilets abspülen, trocken tupfen, in Auflaufform mit Zitronensaft begießen.
-Salzen und pfeffern.
-Paniermehl mit Basilikum, Parmesan und Butter vermischen, Masse auf die Fischfilets streichen.
-Alles bei 200° C auf mittlerer Schiene 20 Minuten backen.
-
-Dazu passen Backkartoffeln und ein frischer Salat mit Jogurtsauce.
+Seelachsfilets abspülen, trocken tupfen, in Auflaufform mit Zitronensaft begießen.  
+Salzen und pfeffern.  
+Paniermehl mit Basilikum, Parmesan und Butter vermischen, Masse auf die Fischfilets streichen.  
+Alles bei 200° C auf mittlerer Schiene 20 Minuten backen.  
+  
+Dazu passen Backkartoffeln und ein frischer Salat mit Jogurtsauce.  

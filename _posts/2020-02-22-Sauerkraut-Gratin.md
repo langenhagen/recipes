@@ -17,9 +17,9 @@ tags: [pasta, casserole]
 - 200g saure Sahne
 - 1 EL Butter
 
-Nudeln al dente kochen.
-Kochschinken würfeln, Parmesan reiben.
-Knoblauch und Zwiebel fein würfeln und mit Katenschinken in Butter anschwitzen.
-Kochschinken hinzu, ebenso kurz das Sauerkraut andünsten.
-Sauerkraut, Nudeln und Käse schichtweise in eine Auflaufform geben und Sahne darüber verteilen.
-Bei 180° Im Ofen für 30 Minuten backen.
+Nudeln al dente kochen.  
+Kochschinken würfeln, Parmesan reiben.  
+Knoblauch und Zwiebel fein würfeln und mit Katenschinken in Butter anschwitzen.  
+Kochschinken hinzu, ebenso kurz das Sauerkraut andünsten.  
+Sauerkraut, Nudeln und Käse schichtweise in eine Auflaufform geben und Sahne darüber verteilen.  
+Bei 180° Im Ofen für 30 Minuten backen.  

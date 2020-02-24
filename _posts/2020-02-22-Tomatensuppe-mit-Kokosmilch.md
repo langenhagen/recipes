@@ -16,12 +16,12 @@ tags: [soup]
 - Salz, Pfeffer, Zucker
 - Crème Fraîche
 
-Zwiebel würfeln, in Butter anschwitzen.
-Tomaten, Kokosmilch und Gemüsebrühe in einen Topf gießen.
-Koriander hacken und hinzu geben.
-Alles pürieren und 5-10 Minuten köcheln lassen.
-Mit Salz, Pfeffer und Zucker abschmecken.
-
-Mit einem Löffel Crème Fraîche und frischen Korianderblättern servieren.
-
-Empfehlung: Weniger Kokosmilch, tomatiger machen
+Zwiebel würfeln, in Butter anschwitzen.  
+Tomaten, Kokosmilch und Gemüsebrühe in einen Topf gießen.  
+Koriander hacken und hinzu geben.  
+Alles pürieren und 5-10 Minuten köcheln lassen.  
+Mit Salz, Pfeffer und Zucker abschmecken.  
+  
+Mit einem Löffel Crème Fraîche und frischen Korianderblättern servieren.  
+  
+Empfehlung: Weniger Kokosmilch, tomatiger machen  

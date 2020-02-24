@@ -18,11 +18,11 @@ tags: []
 - 500g Gnocchi
 - 75-100g Fetakäse
 
-Zwiebel grob würfeln, Tomaten waschen.
-Pinienkerne in einer großen Pfanne ohne Fett rösten und danach rausnehmen.
-Öl in Pfanne erhitzen Mett krümelig anbraten, Zwiebel und Tomaten dazu.
-Mit Salz, Pfeffer und etwas Honig würzen und dann zugedeckt 10-15 Min schmoren.
-Basilikum waschen, grob schneiden und unterheben.
-
-Butter in Pfanne erhitzen, Gnocchi darin kurz anbraten.
-Feta in Tomatenpfanne rein bröckeln und Pinienkerne hinzu, mit den Gnocchi servieren.
+Zwiebel grob würfeln, Tomaten waschen.  
+Pinienkerne in einer großen Pfanne ohne Fett rösten und danach rausnehmen.  
+Öl in Pfanne erhitzen Mett krümelig anbraten, Zwiebel und Tomaten dazu.  
+Mit Salz, Pfeffer und etwas Honig würzen und dann zugedeckt 10-15 Min schmoren.  
+Basilikum waschen, grob schneiden und unterheben.  
+  
+Butter in Pfanne erhitzen, Gnocchi darin kurz anbraten.  
+Feta in Tomatenpfanne rein bröckeln und Pinienkerne hinzu, mit den Gnocchi servieren.  

@@ -17,13 +17,13 @@ tags: [sauce]
 - etwas ZItronensaft
 - Salz
 
-Schalotten klein hacken.
-Schalotten mit Lorberblättern, Essig, Pfeffer und Wasser einkochen bis 1/3 Reduktion übrig ist.
-Butter erhitzen bis alles flüssig ist.
-Eigelb und Salz ein bisschen vom Zitronensaft mit dem Stabmixer schaumig schlagen.
-Reduktion zum Eigelb geben und weiter schlagen.
-Butter langsam hinzu und weiter schlagen.
-Mit Salz und Zitronensaft abschmecken und fertig.
-
-Man kann den Schritt mit den Schalotten, Lorberblättern, Pfeffer auch weg lassen.
-Dann einfach etwas Weißweinessig und Wasser zum Eigelb hinzu geben.
+Schalotten klein hacken.  
+Schalotten mit Lorberblättern, Essig, Pfeffer und Wasser einkochen bis 1/3 Reduktion übrig ist.  
+Butter erhitzen bis alles flüssig ist.  
+Eigelb und Salz ein bisschen vom Zitronensaft mit dem Stabmixer schaumig schlagen.  
+Reduktion zum Eigelb geben und weiter schlagen.  
+Butter langsam hinzu und weiter schlagen.  
+Mit Salz und Zitronensaft abschmecken und fertig.  
+  
+Man kann den Schritt mit den Schalotten, Lorberblättern, Pfeffer auch weg lassen.  
+Dann einfach etwas Weißweinessig und Wasser zum Eigelb hinzu geben.  

@@ -24,17 +24,17 @@ tags: []
 - Piment, Nelken und Beifuß für die Bekömmlichkeit
 - Öl
 
-Kartoffeln würfeln, und kochen.
-
-Zwiebel fein würfeln.
-Knoblauch fein hacken.
-Tomaten und Paprika würfeln.
-Chili in Streifen schneiden.
-
-Hack im Topf scharf anbraten.
-Zwiebel, Paprika und Knoblauch hinzu.
-Mais, Bohnen, Tomaten, etwas Maissaft, Tomatenmark, Kartoffeln und etwas Wasser hinzu.
-Bei geschlossenem Deckel 20 Minuten schmoren lassen.
-
-Chili mit Kernen in den Topf und würzen.
-So lange offen köcheln lassen, bis die gewünschte Konsistenz erreicht ist.
+Kartoffeln würfeln, und kochen.  
+  
+Zwiebel fein würfeln.  
+Knoblauch fein hacken.  
+Tomaten und Paprika würfeln.  
+Chili in Streifen schneiden.  
+  
+Hack im Topf scharf anbraten.  
+Zwiebel, Paprika und Knoblauch hinzu.  
+Mais, Bohnen, Tomaten, etwas Maissaft, Tomatenmark, Kartoffeln und etwas Wasser hinzu.  
+Bei geschlossenem Deckel 20 Minuten schmoren lassen.  
+  
+Chili mit Kernen in den Topf und würzen.  
+So lange offen köcheln lassen, bis die gewünschte Konsistenz erreicht ist.  

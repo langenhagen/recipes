@@ -19,11 +19,13 @@ tags: [sweet, baking]
 - 100ml Öl
 - 1 Prise Salz
 
-Aprikosen fein hacken und kurz in Apfelsaft einweichen.
-Nüsse grob hacken.
-Schokolade im Wasserbad schmelzen.
-Eier mit Zucker und Salz etwa 5 Minuten cremig aufschlagen.
-Aprikosen abtropfen lassen und mit der Hälfte der Nüsse, dem Mehl, dem Kakao und Backpulver zur flüssigen Schokolade geben. Alles zusammen rühren und Öl hinzu.
-Masse auf Backpapier verstreichen und mit restlichen Nüssen belegen.
-
-Teig 25 Minuten bei 180° C backen.
+Aprikosen fein hacken und kurz in Apfelsaft einweichen.  
+Nüsse grob hacken.  
+Schokolade im Wasserbad schmelzen.  
+Eier mit Zucker und Salz etwa 5 Minuten cremig aufschlagen.  
+Aprikosen abtropfen lassen.  
+Aprikosen mit der Hälfte der Nüsse, dem Mehl, dem Kakao und Backpulver zur flüssigen Schokolade geben.  
+Alles zusammen rühren und Öl hinzu.  
+Masse auf Backpapier verstreichen und mit restlichen Nüssen belegen.  
+  
+Teig 25 Minuten bei 180° C backen.  

@@ -16,10 +16,10 @@ tags: []
 - Knoblauch
 - Reibekäse
 
-Zwiebel fein würfeln, Zucchini mit Spargelschäler in längs Streifen schneiden.
-Olivenöl in Pfanne erhitzen.
-
-Nudeln Kochen.
-
-Zwiebeln anbraten, Zucchinistreifen hinzu, Chili hinzu.
-Tomaten anbraten, kurz durchziehen lassen, geriebenen Käse hinzu, fertig!
+Zwiebel fein würfeln, Zucchini mit Spargelschäler in längs Streifen schneiden.  
+Olivenöl in Pfanne erhitzen.  
+  
+Nudeln Kochen.  
+  
+Zwiebeln anbraten, Zucchinistreifen hinzu, Chili hinzu.  
+Tomaten anbraten, kurz durchziehen lassen, geriebenen Käse hinzu, fertig!  

@@ -20,14 +20,14 @@ tags: [pasta]
 - Knoblauch
 - Salz, Pfeffer
 
-Zwiebel grob hacken und in einem Topf mit Butter glasig anbraten.
-Schinken in Streifen schneiden und hinzugeben.
-Salzen und pfeffern.
-
-Eigelb, Sahne, Milch, Salz, Pfeffer mit geriebenem Käse verrühren.
-Sauce in Topf hinzugießen und mit Mehl unter Aufkochen gründlich verrühren.
-Unter Rühren etwas kochen lassen und Knoblauch hineinpressen.
-
-Spaghetti kochen.
-
-Petersilie fein Hacken und zur Sauce geben.
+Zwiebel grob hacken und in einem Topf mit Butter glasig anbraten.  
+Schinken in Streifen schneiden und hinzugeben.  
+Salzen und pfeffern.  
+  
+Eigelb, Sahne, Milch, Salz, Pfeffer mit geriebenem Käse verrühren.  
+Sauce in Topf hinzugießen und mit Mehl unter Aufkochen gründlich verrühren.  
+Unter Rühren etwas kochen lassen und Knoblauch hineinpressen.  
+  
+Spaghetti kochen.  
+  
+Petersilie fein Hacken und zur Sauce geben.  

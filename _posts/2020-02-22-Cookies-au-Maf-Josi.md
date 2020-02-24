@@ -16,4 +16,4 @@ tags: [sweet, baking]
 - 3 EL Sojamilch,
 - 125g Zartbitterschokolade (700ge)
 
-Alles mixen und bei 150° C 25 Minuten backen.
+Alles mixen und bei 150° C 25 Minuten backen.  

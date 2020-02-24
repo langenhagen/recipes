@@ -19,13 +19,13 @@ tags: [soup]
 - Salz, Pfeffer
 - Petersilie
 
-Zwiebeln fein hacken, Knoblauch in feine Streifen schneiden.
-Möhren, Ingwer und Sellerie in feine Scheiben schneiden.
-Zwiebeln und Knoblauch mit Öl und Butter im großen Topf anbraten.
-Möhren, Sellerie und Ingwer hinzu geben und mit einem Stück Butter dünsten.
-Mit Gemüsebrühe ablöschen und ca. 15 Min köcheln lassen.
-Alles mit Honig, Crème fraîche, etwas Butter und Zitronenschale leicht pürieren.
-Salz, Pfeffer, Zitronensaft und ggf. noch etwas Honig hinzu.
-Mit Petersilie garnieren.
-
-Dazu passen separat angebratene Chilis und Shrimps.
+Zwiebeln fein hacken, Knoblauch in feine Streifen schneiden.  
+Möhren, Ingwer und Sellerie in feine Scheiben schneiden.  
+Zwiebeln und Knoblauch mit Öl und Butter im großen Topf anbraten.  
+Möhren, Sellerie und Ingwer hinzu geben und mit einem Stück Butter dünsten.  
+Mit Gemüsebrühe ablöschen und ca. 15 Min köcheln lassen.  
+Alles mit Honig, Crème fraîche, etwas Butter und Zitronenschale leicht pürieren.  
+Salz, Pfeffer, Zitronensaft und ggf. noch etwas Honig hinzu.  
+Mit Petersilie garnieren.  
+  
+Dazu passen separat angebratene Chilis und Shrimps.  

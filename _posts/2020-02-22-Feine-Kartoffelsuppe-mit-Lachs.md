@@ -19,12 +19,12 @@ tags: [fish, soup]
 - Salz, Pfeffer
 - Dill
 
-Zwiebel, Kartoffeln und Petersilienwurzel schälen und klein würfeln.
-Zwiebel in Butter anschwitzen, Kartoffel und Petersilienwurzel hinzu und dünsten.
-Hühnerbrühe und Hälfte der Sahne hinzugeben und 15 Minuten weich kochen.
-Lauch putzen, in 3 cm lange Streifen schneiden und mit der Butter nicht zu weich dünsten.
-Lachs fein würfeln.
-Kartoffeln pürieren, Lauch und Lachs hinzu und würzen.
-Restliche Sahne steif schlagen und unter die Suppe ziehen.
-Mit dem klein geschnittenen Dill garnieren.
-Dazu schmeckt Baguette.
+Zwiebel, Kartoffeln und Petersilienwurzel schälen und klein würfeln.  
+Zwiebel in Butter anschwitzen, Kartoffel und Petersilienwurzel hinzu und dünsten.  
+Hühnerbrühe und Hälfte der Sahne hinzugeben und 15 Minuten weich kochen.  
+Lauch putzen, in 3 cm lange Streifen schneiden und mit der Butter nicht zu weich dünsten.  
+Lachs fein würfeln.  
+Kartoffeln pürieren, Lauch und Lachs hinzu und würzen.  
+Restliche Sahne steif schlagen und unter die Suppe ziehen.  
+Mit dem klein geschnittenen Dill garnieren.  
+Dazu schmeckt Baguette.  

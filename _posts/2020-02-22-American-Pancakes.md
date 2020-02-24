@@ -16,9 +16,9 @@ tags: [sweet, breakfast]
 - ¼ Tasse Öl
 - Ahornsirup
 
-Alle Zutaten in einer Schüssel mischen und mit einem Mixer zusammen mixen.
-Portionsweise Pfannkuchen in einer Pfanne mit etwas Öl braten.
-Mit Ahornsirup servieren
-
-Optional kann man 1-1 ½ Bananen in den Teig Mischen.
-Zum Servieren eignet sich Obst und Beeren, sowie Puderzucker.
+Alle Zutaten in einer Schüssel mischen und mit einem Mixer zusammen mixen.  
+Portionsweise Pfannkuchen in einer Pfanne mit etwas Öl braten.  
+Mit Ahornsirup servieren.  
+  
+Optional kann man 1-1 ½ Bananen in den Teig Mischen.  
+Zum Servieren eignet sich Obst und Beeren, sowie Puderzucker.  

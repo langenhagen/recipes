@@ -24,16 +24,16 @@ Für die Füllung:
 - 200g Saure Sahne
 - 200g Schlagsahne
 
-Für den Teig:
-Alle Zutaten in eine Schüssel geben.
-Mit der Hand zusammen kneten und beiseite stellen.
-
-Für die Füllung:
-Vanilleschote sehr klein schneiden.
-Butter, Zucker, Stärke, und Vanille, 3 Eier in einer Schüssel verrühren.
-Quark und saure Sahne untermischen.
-Schlagsahne steif schlagen und unterheben.
-
-Knetteig in einer gefetteten Form auslegen und 2-3cm am Rand hochziehen.
-Füllung in die Form geben.
-Kuchen bei 180° C für 1 Stunde backen.
+Für den Teig:  
+Alle Zutaten in eine Schüssel geben.  
+Mit der Hand zusammen kneten und beiseite stellen.  
+  
+Für die Füllung:  
+Vanilleschote sehr klein schneiden.  
+Butter, Zucker, Stärke, und Vanille, 3 Eier in einer Schüssel verrühren.  
+Quark und saure Sahne untermischen.  
+Schlagsahne steif schlagen und unterheben.  
+  
+Knetteig in einer gefetteten Form auslegen und 2-3cm am Rand hochziehen.  
+Füllung in die Form geben.  
+Kuchen bei 180° C für 1 Stunde backen.  

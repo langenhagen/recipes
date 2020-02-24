@@ -18,12 +18,12 @@ tags: [soup]
 - Erdnussöl
 - 2 Scheiben Weißbrot für Croutons
 
-Zwiebel hacken, Knoblauch klein Stückeln.
-Zucchini in grobe Stücke schneiden.
-Öl im Topf erhitzen, Zwiebeln und Knoblauch darin anschwitzen.
-Zucchini hinzu tun.
-Curry und Currypaste zugeben und mit Gemüsebrühe und Kokosmilch aufgießen.
-10 Minuten köcheln lassen.
-Alles pürieren und mit ordentlich Salz und Pfeffer abschmecken.
-
-Croutons rösten und Portionen damit garnieren.
+Zwiebel hacken, Knoblauch klein Stückeln.  
+Zucchini in grobe Stücke schneiden.  
+Öl im Topf erhitzen, Zwiebeln und Knoblauch darin anschwitzen.  
+Zucchini hinzu tun.  
+Curry und Currypaste zugeben und mit Gemüsebrühe und Kokosmilch aufgießen.  
+10 Minuten köcheln lassen.  
+Alles pürieren und mit ordentlich Salz und Pfeffer abschmecken.  
+  
+Croutons rösten und Portionen damit garnieren.  

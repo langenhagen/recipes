@@ -19,11 +19,11 @@ tags: [sweet, drink]
 - Rotbuschtee, Schwarztee
 - Apfelsaft
 
-Mark aus der Vanilleschote auskratzen.
-Alle Gewürze und Schoten mit Wasser in einem Topf zum Kochen bringen.
-Orangen- und Zitronenschalen ab raspeln und hinzugeben.
-Zitrone und Orange auspressen, Saft beiseitestellen.
-Rotbuschtee und Schwarztee kurz im Topf mitziehen lassen.
-Alles für 20 Minuten köcheln lassen.
-Mit Apfelsaft hinzu, Zitronen- und Orangensaft hinzu.
-Mit Honig süßen.
+Mark aus der Vanilleschote auskratzen.  
+Alle Gewürze und Schoten mit Wasser in einem Topf zum Kochen bringen.  
+Orangen- und Zitronenschalen ab raspeln und hinzugeben.  
+Zitrone und Orange auspressen, Saft beiseitestellen.  
+Rotbuschtee und Schwarztee kurz im Topf mitziehen lassen.  
+Alles für 20 Minuten köcheln lassen.  
+Mit Apfelsaft hinzu, Zitronen- und Orangensaft hinzu.  
+Mit Honig süßen.  

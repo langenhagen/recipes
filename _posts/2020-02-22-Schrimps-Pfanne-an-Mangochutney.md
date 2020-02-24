@@ -20,13 +20,13 @@ tags: []
 - Currypulver
 - Öl
 
-Reis mit Wasser im Verhältnis 1 zu 2 kochen.
-
-Schrimps abtropfen.
-Zwiebel würfeln.
-Paprika in mundgerechte Streifen schneiden.
-Zwiebel und Paprika bissfest andünsten.
-Schrimps kurz mit dünsten.
-Mais, gestückelte Ananas und Chutney hinzu.
-Reis ebenfalls hinzu und umrühren.
-Alles umrühren und würzen.
+Reis mit Wasser im Verhältnis 1 zu 2 kochen.  
+  
+Schrimps abtropfen.  
+Zwiebel würfeln.  
+Paprika in mundgerechte Streifen schneiden.  
+Zwiebel und Paprika bissfest andünsten.  
+Schrimps kurz mit dünsten.  
+Mais, gestückelte Ananas und Chutney hinzu.  
+Reis ebenfalls hinzu und umrühren.  
+Alles umrühren und würzen.  
