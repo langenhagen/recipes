@@ -5,11 +5,11 @@
 # Check for wrong spacing with measure units
 grep -HiRns '\bg\b' _posts/*
 
-grep -HiRns '\bl\b' _posts/*
-grep -HiRns '\bml\b' _posts/*
+grep -HiRns ' l\b' _posts/*
+grep -HiRns ' ml\b' _posts/*
 
-grep -HiRns '[0-9]EL\b' _posts/*
-grep -HiRns '[0-9]TL\b' _posts/*
+grep -HiRns '[0-9½¼]EL\b' _posts/*
+grep -HiRns '[0-9½¼]TL\b' _posts/*
 
 # Check for correct spacing at the end of lines
 grep -EHiRns '[^[:space:]][[:space:]]$' _posts/*
