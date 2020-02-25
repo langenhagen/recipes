@@ -1,0 +1,19 @@
+---
+layout: page
+title: Tags
+permalink: /tags/
+---
+
+{% assign sorted_tags = (site.tags | sort:0) %}
+{% for tag in sorted_tags %}
+  <h2>{{ tag[0] }}</h2>
+  {% assign sorted_posts = (site.posts | sort) %}
+  {% for post in sorted_posts %}
+    {% if post.tags contains tag[0] %}
+      <a class="post-links" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}<br>
+      </a>
+    {% endif %}
+  {% endfor %}
+  <br>
+{% endfor %}
