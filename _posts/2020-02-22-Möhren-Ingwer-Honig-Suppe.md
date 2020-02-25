@@ -28,4 +28,4 @@ Alles mit Honig, Crème fraîche, etwas Butter und Zitronenschale leicht pürier
 Salz, Pfeffer, Zitronensaft und ggf. noch etwas Honig hinzu.  
 Mit Petersilie garnieren.  
   
-Dazu passen separat angebratene Chilis und Shrimps.  
+Dazu passen separat angebratene Chilis und Schrimps.  

@@ -11,7 +11,7 @@ tags: [pasta, meat]
 - 1 Bund Frühlingszwiebeln
 - 250g Champignons
 - 400ml Schlagsahne
-- Ein paar Streifen Rohschinken
+- ein paar Streifen Rohschinken
 - Olivenöl
 - 3 Zehen Knoblauch
 - Muskat
