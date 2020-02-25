@@ -25,14 +25,13 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li style="margin-bottom: 0px;">
-        <h2>
-          <a class="post-links" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-          <span class="post-meta">
-            {%- for tag in post.tags -%}{{ tag }}&nbsp&nbsp{%- endfor -%}
-          </span>
-        </h2>
+        <a class="post-links" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+        <span class="post-meta">
+          {% assign sorted_tags = (post.tags | sort:0) %}
+          {%- for tag in sorted_tags -%}{{ tag }}&nbsp&nbsp{%- endfor -%}
+        </span>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
