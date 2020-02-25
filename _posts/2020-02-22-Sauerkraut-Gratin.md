@@ -3,7 +3,7 @@ layout: post
 title: Sauerkraut-Gratin
 date: 2020-02-22
 categories: recipe
-tags: [pasta, casserole]
+tags: [pasta, casserole, meat]
 ---
 # Sauerkraut-Gratin
 

@@ -17,7 +17,7 @@ tags: [salad]
 - 1 Handvoll Walnüsse oder Pinienkerne oder Sonnenblumenkerne
 - Olivenöl
 - 100ml süßliches Balsamico Dressing
-- Dazu passt Brot, das mit dem restlichen Öl geröstet ist
+- dazu passt Brot, das mit dem restlichen Öl geröstet ist
 
 Dressing zubereiten.  
 Süßkartoffel, Aubergine und Zucchini in halbierte oder gedrittelte Scheiben schneiden.  

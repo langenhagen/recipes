@@ -3,7 +3,7 @@ layout: post
 title: Chili con Carne
 date: 2020-02-22
 categories: recipe
-tags: []
+tags: [meat]
 ---
 # Chili con Carne
 

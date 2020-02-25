@@ -3,7 +3,7 @@ layout: post
 title: Tomaten-Mett-Pfanne mit Gnocchi
 date: 2020-02-22
 categories: recipe
-tags: []
+tags: [meat]
 ---
 # Tomaten-Mett Pfanne mit Gnocchi
 

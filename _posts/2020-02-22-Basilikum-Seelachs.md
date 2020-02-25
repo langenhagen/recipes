@@ -3,7 +3,7 @@ layout: post
 title: Basilikum-Seelachs
 date: 2020-02-22
 categories: recipe
-tags: [fish]
+tags: [fish, seafood]
 ---
 # Basilikum-Seelachs
 

@@ -3,7 +3,7 @@ layout: post
 title: Bulgarische grüne Bohnen mit Fleisch
 date: 2020-02-22
 categories: recipe
-tags: []
+tags: [meat]
 ---
 # Bulgarische grüne Bohnen mit Fleisch
 
