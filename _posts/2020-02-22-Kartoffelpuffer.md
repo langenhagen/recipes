@@ -3,7 +3,7 @@ layout: post
 title: Kartoffelpuffer
 date: 2020-02-22
 categories: recipe
-tags: []
+tags: [foundation]
 ---
 # Kartoffelpuffer
 
