@@ -1,7 +1,7 @@
 # Recipes
 My, andreasl's cooking recipe blog.
 
-This blog contains my curated collection of food recipies. Enjoy!
+This `jekyll`-based blog contains my curated collection of food recipies. Enjoy!
 
 
 ## Prerequisites
