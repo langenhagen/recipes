@@ -2,7 +2,7 @@
 My, andreasl's cooking recipe blog.
 
 This `jekyll`-based blog contains my curated collection of food recipies.
-Find it on GitHub pages at langenhagen.github.io/notes.
+Find it on GitHub pages at https://langenhagen.github.io/recipes/.
 Enjoy!
 
 
