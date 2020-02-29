@@ -2,7 +2,6 @@
 layout: post
 title: American Pancakes
 date: 2020-02-22
-categories: recipe
 tags: [sweet, breakfast]
 ---
 # American Pancakes

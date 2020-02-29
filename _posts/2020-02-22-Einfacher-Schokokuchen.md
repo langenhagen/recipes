@@ -2,7 +2,6 @@
 layout: post
 title: Einfacher Schokokuchen
 date: 2020-02-22
-categories: recipe
 tags: [sweet, baking]
 ---
 # Einfacher Schokokuchen

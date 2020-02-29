@@ -2,7 +2,6 @@
 layout: post
 title: Bandnudeln an Walnusssauce
 date: 2020-02-22
-categories: recipe
 tags: [pasta]
 ---
 # Bandnudeln an Walnusssauce

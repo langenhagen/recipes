@@ -2,7 +2,6 @@
 layout: post
 title: Sauce Hollandaise
 date: 2020-02-22
-categories: recipe
 tags: [sauce]
 ---
 # Sauce Hollandaise

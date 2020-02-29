@@ -2,7 +2,6 @@
 layout: post
 title: Feine Kartoffelsuppe mit Lachs
 date: 2020-02-22
-categories: recipe
 tags: [fish, soup, seafood]
 ---
 # Feine Kartoffelsuppe mit Lachs

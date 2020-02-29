@@ -2,7 +2,6 @@
 layout: post
 title: Kürbis-Lachs-Lasagne
 date: 2020-02-22
-categories: recipe
 tags: [casserole, fish, seafood]
 ---
 # Kürbis-Lachs-Lasagne

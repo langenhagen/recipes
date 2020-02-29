@@ -2,7 +2,6 @@
 layout: post
 title: Penne mit Mais und Paprika
 date: 2020-02-22
-categories: recipe
 tags: [pasta]
 ---
 # Penne mit Mais und Paprika

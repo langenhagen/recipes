@@ -2,7 +2,6 @@
 layout: post
 title: Zitronenhähnchen (für 4 Personen)
 date: 2020-02-22
-categories: recipe
 tags: [meat]
 ---
 # Zitronenhähnchen (für 4 Personen)

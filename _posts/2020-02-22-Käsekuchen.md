@@ -2,7 +2,6 @@
 layout: post
 title: Käsekuchen
 date: 2020-02-22
-categories: recipe
 tags: [sweet, baking]
 ---
 # Käsekuchen

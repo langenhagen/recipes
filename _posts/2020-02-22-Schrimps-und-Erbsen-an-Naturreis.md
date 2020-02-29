@@ -2,7 +2,6 @@
 layout: post
 title: Schrimps und Erbsen an Naturreis
 date: 2020-02-22
-categories: recipe
 tags: [rice, seafood]
 ---
 # Schrimps und Erbsen an Naturreis

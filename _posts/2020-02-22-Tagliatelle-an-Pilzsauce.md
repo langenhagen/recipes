@@ -2,7 +2,6 @@
 layout: post
 title: Tagliatelle an Pilzsauce
 date: 2020-02-22
-categories: recipe
 tags: [pasta, meat]
 ---
 # Tagliatelle an Pilzsauce

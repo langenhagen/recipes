@@ -2,7 +2,6 @@
 layout: post
 title: Feine Kürbissuppe
 date: 2020-02-22
-categories: recipe
 tags: [soup]
 ---
 # Feine Kürbissuppe

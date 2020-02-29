@@ -2,7 +2,6 @@
 layout: post
 title: Fruchtige Walnuss-Brownies
 date: 2020-02-22
-categories: recipe
 tags: [sweet, baking]
 ---
 # Fruchtige Walnuss-Brownies

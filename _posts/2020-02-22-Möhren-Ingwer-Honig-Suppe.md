@@ -2,7 +2,6 @@
 layout: post
 title: Möhren-Ingwer-Honig-Suppe
 date: 2020-02-22
-categories: recipe
 tags: [soup]
 ---
 # Möhren-Ingwer-Honig-Suppe

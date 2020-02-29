@@ -2,7 +2,6 @@
 layout: post
 title: Griesbrei
 date: 2020-02-22
-categories: recipe
 tags: [sweet, dessert]
 ---
 # Griesbrei
