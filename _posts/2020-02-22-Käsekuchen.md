@@ -20,7 +20,7 @@ Für die Füllung:
 - 40g Stärke
 - 3 Eier
 - 500g Quark
-- 200g Saure Sahne
+- 200g saure Sahne
 - 200g Schlagsahne
 
 Für den Teig:  

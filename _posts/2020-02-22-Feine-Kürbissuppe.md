@@ -20,7 +20,7 @@ tags: [soup]
 - 1 Vanilleschote
 - Salz, Pfeffer
 - 200ml Schlagsahne
-- 200ml Saure Sahne
+- 200ml saure Sahne
 - Orangensaft
 - Öl
 
