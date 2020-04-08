@@ -44,6 +44,7 @@ defaults:
       path: ""
     values:
       categories: recipe
+      layout: post
 
 
 # Exclude from processing.
