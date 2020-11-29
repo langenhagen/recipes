@@ -4,6 +4,11 @@
 #
 # author: andreasl
 
+if [[ "$1" =~ -h|--help ]]; then
+    printf "usage:  ${0} <post-title>\n"
+    exit 0
+fi
+
 post_title="$*"
 [ -z "$post_title" ] && printf 'Error: Script needs a post title.\n' && exit 1
 
