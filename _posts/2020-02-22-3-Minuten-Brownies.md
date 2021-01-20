@@ -2,7 +2,7 @@
 layout: post
 title: 3-Minuten Brownies
 date: 2020-02-22
-tags: [sweet, baking]
+tags: [sweet, baking, easy]
 ---
 # 3-Minuten Brownies
 

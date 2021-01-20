@@ -2,7 +2,7 @@
 layout: post
 title: Zucchinistreifen an Spaghetti
 date: 2020-02-22
-tags: [pasta]
+tags: [pasta, easy]
 ---
 # Zucchinistreifen an Spaghetti
 

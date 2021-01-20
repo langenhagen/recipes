@@ -2,7 +2,7 @@
 layout: post
 title: Reis mit Linsen
 date: 2020-02-22
-tags: [rice]
+tags: [rice, easy]
 ---
 # Reis mit Linsen
 

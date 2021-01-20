@@ -2,7 +2,7 @@
 layout: post
 title: Griesbrei
 date: 2020-02-22
-tags: [sweet, dessert]
+tags: [sweet, dessert, easy]
 ---
 # Griesbrei
 

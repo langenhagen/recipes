@@ -2,7 +2,7 @@
 layout: post
 title: Brokkolisuppe
 date: 2020-02-22
-tags: [soup]
+tags: [soup, easy]
 ---
 # Brokkolisuppe
 
