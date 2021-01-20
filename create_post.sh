@@ -33,3 +33,6 @@ printf -- "$front_matter" > "$post_path"
 
 printf -- '%s\n' "$post_path"
 subl "$post_path"
+
+printf '\nConsider following tags:'
+bash "${repo_dir}/list_tags.sh"
