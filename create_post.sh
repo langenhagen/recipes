@@ -5,13 +5,11 @@
 #
 # author: andreasl
 
-if [[ "$1" =~ -h|--help ]]; then
+post_title="$*"
+if [[ "$1" =~ -h|--help ]] || [ -z "$post_title" ]; then
     printf "usage:  ${0} <post-title>\n"
     exit 0
 fi
-
-post_title="$*"
-[ -z "$post_title" ] && printf 'Error: Script needs a post title.\n' && exit 1
 
 repo_dir="$(git rev-parse --show-toplevel)"
 post_date="$(date '+%Y-%m-%d')"
