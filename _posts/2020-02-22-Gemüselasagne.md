@@ -27,7 +27,7 @@ tags: [casserole]
 - ¾ Liter Milch
 
 Alles Gemüse klein würfeln, Lauch in Streifen schneiden, Knoblauch fein hacken.  
-Alles Gemüse mit Olivenöl im Topf andünsten.  
+Alles Gemüse ausser Tomaten mit Olivenöl im Topf andünsten.  
 Thymian und Knoblauch hinzu.  
 Tomaten hinzu geben.  
 Mit Salz und Chili würzen.  
