@@ -18,13 +18,13 @@ tags: [easy, rice]
 - 1 Spritzer Zitronensaft
 - Salz, Pfeffer
 
-Hähnchenfleisch klein würfeln und anbraten.
-Möhren in Scheiben schneiden.
-Hühnerbrühe bereit stellen.
-Butter in einem großen Topf schmelzen und mit Mehl zur Mehlschwitze vermischen.
-Brühe hinzu geben, verrühren und aufkochen lassen.
-Sahne, Möhren Erbsen hinzu geben.
-Reis und Wasser hinzu geben.
-Alles für 10 Minuten köcheln lassen.
-Fleisch hinzu geben und weitere 10 Minuten köcheln lassen.
-Hühnerfrikassee mit Salz und Pfeffer würzen und mit Zitronensaft abschmecken.
+Hähnchenfleisch klein würfeln und anbraten.  
+Möhren in Scheiben schneiden.  
+Hühnerbrühe bereit stellen.  
+Butter in einem großen Topf schmelzen und mit Mehl zur Mehlschwitze vermischen.  
+Brühe hinzu geben, verrühren und aufkochen lassen.  
+Sahne, Möhren Erbsen hinzu geben.  
+Reis und Wasser hinzu geben.  
+Alles für 10 Minuten köcheln lassen.  
+Fleisch hinzu geben und weitere 10 Minuten köcheln lassen.  
+Hühnerfrikassee mit Salz und Pfeffer würzen und mit Zitronensaft abschmecken.  
