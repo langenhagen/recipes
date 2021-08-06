@@ -25,5 +25,5 @@ Mehl hinzugeben geben und leicht bräunen.
 Sahne und Milch hinzu geben und aufkochen lassen.  
 Eigelbe unter rühren.  
 Mit Parmesan, Petersilie und Pfeffer und Muskat abschmecken.  
-Ungekochte Nudlen in eine Auflaufform gbeen und mit dem Käse bestreuen.  
+Ungekochte Nudeln in eine Auflaufform geben und mit dem Käse bestreuen.  
 Alles bei 175° Umluft für 30 Minuten im Ofen backen.  
