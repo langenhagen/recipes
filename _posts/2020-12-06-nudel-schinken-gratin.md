@@ -10,15 +10,15 @@ tags: [casserole, pasta]
 - 400g Kochschinken
 - 400ml Sahne
 - 700ml Milch
+- 2 EL Butter
 - 2 Eigelb
 - 2 große Zwiebel(n)
 - 2 EL Mehl
-- 2 Handvoll frische Petersilie
+- 400g Emmentaler
 - etwas Parmesan
+- 2 Handvoll frische Petersilie
 - Muskat
 - schwarzer Pfeffer
-- 400g Emmentaler
-- 2 EL Butter
 
 Zwiebeln und Schinken würfeln und in einem großen Topf in Butter anbraten.  
 Mehl hinzugeben geben und leicht bräunen.  
