@@ -20,7 +20,7 @@ tags: [casserole, pasta]
 - 400g Emmentaler
 - 2 EL Butter
 
-Zwiebeln und Schinken würfeln und in Butter anbraten.  
+Zwiebeln und Schinken würfeln und in einem großen Topf in Butter anbraten.  
 Mehl hinzugeben geben und leicht bräunen.  
 Sahne und Milch hinzu geben und aufkochen lassen.  
 Eigelbe unter rühren.  
