@@ -21,9 +21,10 @@ tags: [casserole, pasta]
 - schwarzer Pfeffer
 
 Zwiebeln und Schinken würfeln und in einem großen Topf in Butter anbraten.  
-Mehl hinzugeben geben und leicht bräunen.  
+Nudeln kochen.  
+Mehl zu de Zwiebeln hinzugeben geben und leicht bräunen.  
 Sahne und Milch hinzu geben und aufkochen lassen.  
 Eigelbe unter rühren.  
 Mit Parmesan, Petersilie und Pfeffer und Muskat abschmecken.  
-Ungekochte Nudeln in eine Auflaufform geben und mit dem Käse bestreuen.  
+Nudeln in eine Auflaufform geben und mit dem Käse bestreuen.  
 Alles bei 175° Umluft für 30 Minuten im Ofen backen.  
