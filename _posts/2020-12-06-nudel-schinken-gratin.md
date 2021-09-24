@@ -22,7 +22,7 @@ tags: [casserole, pasta]
 
 Zwiebeln und Schinken würfeln und in einem großen Topf in Butter anbraten.  
 Nudeln kochen.  
-Mehl zu de Zwiebeln hinzugeben geben und leicht bräunen.  
+Mehl zu den Zwiebeln hinzugeben geben und leicht bräunen.  
 Sahne und Milch hinzu geben und aufkochen lassen.  
 Eigelbe unter rühren.  
 Mit Parmesan, Petersilie und Pfeffer und Muskat abschmecken.  
