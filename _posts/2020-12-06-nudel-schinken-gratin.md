@@ -21,7 +21,7 @@ tags: [casserole, pasta]
 - schwarzer Pfeffer
 
 Zwiebeln und Schinken würfeln und in einem großen Topf in Butter anbraten.  
-Nudeln kochen.  
+Optional Nudeln sehr kurz kochen.  
 Mehl zu den Zwiebeln hinzugeben geben und leicht bräunen.  
 Sahne und Milch hinzu geben und aufkochen lassen.  
 Eigelbe unter rühren.  
