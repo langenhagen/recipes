@@ -10,7 +10,7 @@ tags: [sweet, baking]
 - 100g Margarine
 - 90g Vollrohrzucker
 - 20g Vanillezucker
-- 2 Messerspitze Backpulver
+- 2 Messerspitzen Backpulver
 - 1 EL Sojamehl
 - 3 EL Sojamilch
 - 125g Zartbitterschokolade (700ge)
