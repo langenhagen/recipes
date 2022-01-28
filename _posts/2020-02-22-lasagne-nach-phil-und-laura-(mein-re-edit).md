@@ -18,10 +18,13 @@ tags: [casserole, meat]
 - 75g Butter
 - Parmesan
 
-Fleisch anbraten, Zwiebel fein würfeln und dazu geben.  
-Tomaten pürieren und hinzugeben.  
+Zwiebel und Knoblauch fein würfeln.  
+Tomaten pürieren.  
+
+Fleisch anbraten und Zwiebeln dazu geben.  
+Tomaten hinzugeben.  
 Salzen, Pfeffern und Knoblauch und Gewürze hinzu.  
-  
+
 In einem Topf Butter anbraten und Mehl hinzu geben.  
 Mit Milch löschen und 2 Minuten köcheln lassen.  
 Mit Salz, Pfeffer und Muskatnuss würzen.  
