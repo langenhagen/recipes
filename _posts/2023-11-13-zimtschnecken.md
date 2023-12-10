@@ -24,7 +24,7 @@ Für's Topping:
 - Puderzucker
 
 
-Teig ansetzen:
+Teig ansetzen:  
 Butter in einem Topf zerlassen.  
 Milch hinzu geben.  
 Mehl mit Zucker und Salz in einer Schüssel vermischen.  
@@ -34,12 +34,12 @@ Mit dem Knethaken Teig glatt kneten.
 45 Minuten zugedeckt ruhen lassen.
 
 
-Füllung:
+Füllung:  
 Butter ggf. sanft erwärmen, sodass sie weich aber nicht flüssig ist.  
 Zucker und Zimt hinzu geben und alles vermischen.
 
 
-Schnecken rollen:
+Schnecken rollen:  
 Runde Kuchenform (Ø 30cm) fetten.  
 Teig auf bemehlter Fläche rechteckig ausrollen.  
 Teig mit einem Pinsel mit Zimt-Füllung bestreichen. Dabei einen ca. 1 cm dünnen Rand freilassen.  
@@ -48,7 +48,7 @@ Teigrolle in 10 - 12 Schnecken schneiden.
 Schnecken in die Kuchenform legen, sodass die schneckenkringel nach oben zeigen. Die Schnecken gehen weiter auf, deshalb ein bisschen Platz zwischen den Schnecken lassen.  
 Schnecken 30 Minuten zugedeckt ruhen lassen
 
-Backofen auf 180° C (Umluft: 160° C) vorheizen.
+Backofen auf 180° C (Umluft: 160° C) vorheizen.  
 Schnecken ca. 25 Minuten backen.
 
 Etwas auskühlen lassen.  
