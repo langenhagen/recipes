@@ -16,8 +16,11 @@ tags: [sweet, baking]
 - 380g Mehl
 - 200g Schokolade
 
-Mehl, Natron, Salz in Schüssel mischen und beiseitestellen.  
+Mehl, Natron, Salz in Schüssel mischen und beiseite stellen.  
+Schokolade mit einem großen Messer zerkleinern und beiseite stellen.  
 Butter sanft erwärmen, sodass sie leicht knetbar wird.  
 Butter, Zucker, braunen Zucker und Vanillearoma in Schüssel cremig einschlagen. Eier einzeln zugeben und gut unterrühren.  
-Nun Mehlmischung Portionsweise untermengen. Zum Schluss Schokolade dazu geben. 1 gehäuften EL Teig auf nicht eingefettetes Backblech setzen.  
+Mehlmischung Portionsweise untermengen.  
+Zum Schluss Schokolade dazu geben.  
+1 gehäuften EL Teig auf nicht eingefettetes Backblech setzen.  
 Circa 15 Minuten bei vorgeheizten 150° C heizen.  
