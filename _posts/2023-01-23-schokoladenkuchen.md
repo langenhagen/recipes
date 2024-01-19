@@ -18,21 +18,20 @@ Trockene Zutaten für den Teig:
 - 170g Mehl
 - 2 EL Kakaopulver
 - 3 TL Backpulver
-
 - 100g geraspelte Zartbitterschokolade
 
 Für die Glasur:
 - 200g Zartbitterschokolade
 - etwas Kakaopulver
 
-Kuchenform einfetten.
-Mehl, Kakao und Backpulver mischen.
-Weiche Butter mit Zucker, Vanille und Salz schaumig schlagen.
-Eier hinzu geben.
-Mehlmischung unter Rühren zu der Buttermischung geben.
-Geraspelte Schokolade unterrühren.
-Alles für 35 Minuten bei 160° backen.
+Kuchenform einfetten.  
+Mehl, Kakao und Backpulver mischen.  
+Weiche Butter mit Zucker, Vanille und Salz schaumig schlagen.  
+Eier hinzu geben.  
+Mehlmischung unter Rühren zu der Buttermischung geben.  
+Geraspelte Schokolade unterrühren.  
+Alles für 35 Minuten bei 160° backen.  
 
-Restliche Schokolade langsam erhitzen bis sie flüssig ist.
-Flüssige Schokomasse über den Kuchen verteilen.
+Restliche Schokolade langsam erhitzen bis sie flüssig ist.  
+Flüssige Schokomasse über den Kuchen verteilen.  
 Etwas Kakaopulver mit einem Sieb auf die Glasur verstreuen.
