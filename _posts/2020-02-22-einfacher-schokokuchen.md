@@ -14,6 +14,8 @@ tags: [sweet, baking]
 - 150ml Schlagsahne
 - 200g Zartbitterschokolade
 
+- Himbeeren und Puderzucker für's Topping
+
 Backofen auf 180° C vorheizen.  
 Eier und Zucker verrühren.  
 Mehl, Kakaopulver und Milch einrühren und alles zu einer glatten Masse verarbeiten.  
@@ -25,3 +27,5 @@ Masse in der Mikrowelle 4 Minuten bei niedriger Wattzahl schmelzen.
 Geschmolzene Schokolade auf den Kuchen geben und abkühlen lassen.  
   
 Dazu passen Himbeeren und Puderzucker.  
+
+![Einfacher Schokokuchen](/{{ site.baseurl }}/assets/images/einfacher-schokokuchen.jpg)
