@@ -19,6 +19,7 @@ Eier und Zucker verrühren.
 Mehl, Kakaopulver und Milch einrühren und alles zu einer glatten Masse verarbeiten.  
 Teig in eine mit Backpapier ausgelegte und eingefettete Kuchenform geben.  
 Alles bei 180° C für 25 Minuten backen.  
+
 Schlagsahne mit dunkler Schokolade vermengen.  
 Masse in der Mikrowelle 4 Minuten bei niedriger Wattzahl schmelzen.  
 Geschmolzene Schokolade auf den Kuchen geben und abkühlen lassen.  
