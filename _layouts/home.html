@@ -2,58 +2,88 @@
 layout: default
 ---
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+
+    // Quick filter items
+    const postItems = document.querySelectorAll(".post-item");
+    document.getElementById("filter-input").addEventListener("input", function () {
+      const searchTerm = this.value.trim().toLowerCase();
+
+      postItems.forEach(function (postItem) {
+        const postTitle = postItem.querySelector(".post-links").textContent.toLowerCase();
+        const postTags = postItem.querySelector(".post-meta").textContent.toLowerCase();
+
+        if (postTitle.includes(searchTerm) || postTags.includes(searchTerm)) {
+          postItem.style.display = "block";
+        } else {
+          postItem.style.display = "none";
+        }
+      });
+    });
+
+    // Keyboard shortcuts
+    const filterInput = document.getElementById("filter-input");
+    document.addEventListener("keydown", function(event) {
+      if (event.key === "/") {  // Focus Quick Filter text
+        filterInput.focus();
+        event.preventDefault(); // Prevent the "/" character from appearing in the input field
+      }
+    });
+
+  });
+</script>
+
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%} {{ content }} {% if site.paginate %} {% assign posts = paginator.posts %} {% else %}
+  {% assign posts = site.posts %} {% endif %} {%- if posts.size > 0 -%} {%- if page.list_title -%}
+  <h2 class="post-list-heading">{{ page.list_title }}</h2>
   {%- endif -%}
-
-  {{ content }}
-
+  <input
+    type="text"
+    id="filter-input"
+    placeholder="Filter posts..."
+    style="margin-bottom: 20px"
+    autofocus
+  />
+  <ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} {%- for post in
+    posts -%}
+    <li class="post-item" style="margin-bottom: 0px">
+      <a class="post-links" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
+      <span class="post-meta">
+        {% assign sorted_tags = post.tags | sort %} {%- for tag in sorted_tags -%}{{ tag
+        }}&nbsp;&nbsp;{%- endfor -%}
+      </span>
+    </li>
+    {%- endfor -%}
+  </ul>
 
   {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
-
-
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li style="margin-bottom: 0px;">
-        <a class="post-links" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-        <span class="post-meta">
-          {% assign sorted_tags = post.tags | sort %}
-          {%- for tag in sorted_tags -%}{{ tag }}&nbsp&nbsp{%- endfor -%}
-        </span>
+  <div class="pager">
+    <ul class="pagination">
+      {%- if paginator.previous_page %}
+      <li>
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page"
+          >{{ paginator.previous_page }}</a
+        >
       </li>
-      {%- endfor -%}
+      {%- else %}
+      <li><div class="pager-edge">•</div></li>
+      {%- endif %}
+      <li><div class="current-page">{{ paginator.page }}</div></li>
+      {%- if paginator.next_page %}
+      <li>
+        <a href="{{ paginator.next_page_path | relative_url }}" class="next-page"
+          >{{ paginator.next_page }}</a
+        >
+      </li>
+      {%- else %}
+      <li><div class="pager-edge">•</div></li>
+      {%- endif %}
     </ul>
-
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
-
-  {%- endif -%}
-
+  </div>
+  {%- endif %} {%- endif -%}
 </div>
