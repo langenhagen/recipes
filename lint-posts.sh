@@ -15,3 +15,5 @@ grep -HiRns '[0-9½¼]TL\b' _posts/
 # Check for correct spacing at the end of lines
 grep -EHiRns '[^[:space:]][[:space:]]$' _posts/
 grep -EHiRns '[[:space:]]{3,}$' _posts/
+
+exit 0
