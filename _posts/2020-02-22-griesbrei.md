@@ -14,7 +14,7 @@ tags: [sweet, dessert, easy]
 - 3 EL Butter
 
 Milch, Zucker, Vanillezucker und Salz vermischen.  
-Milch in einem Topf unter Rühren aufkochen.  
+Milchmischung in einem Topf unter Rühren aufkochen.  
 Sobald Milch kocht, von der Herdplatte nehmen und Gries unterrühren.  
 Wieder aufkochen und von der Herdplatte nehmen.  
 Butter unterrühren.  
