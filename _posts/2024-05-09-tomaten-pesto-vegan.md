@@ -6,17 +6,16 @@ tags: [easy, fast, pasta, sauce, vegan]
 ---
 # Tomaten-Pesto, vegan
 
-- 200g getrocknete Tomaten
+- 200g eingelegte getrocknete Tomaten
 - 50g Pinienkerne
 - 2 Knoblauchzehen
+- 3 EL Olivenöl (nach Bedarf, je nach Konsistenz)
 - 2 EL Hefeflocken
-- 50ml Olivenöl
 - Salz und Pfeffer nach Geschmack
-- optional 1 EL Weizenkleie
+- Optional 1 EL Weizenkleie
 
 Die getrockneten Tomaten abtropfen lassen.  
-Die Pinienkerne in einer Pfanne goldbraun rösten.  
-Knoblauch schälen.  
+Optional die Pinienkerne in einer Pfanne goldbraun rösten.  
 Alle Zutaten mit einem Mixer geben und gut durch mixen.  
 Je nach Wunsch mehr oder weniger Olivenöl hinzufügen.  
 Mit Salz und Pfeffer abschmecken.
