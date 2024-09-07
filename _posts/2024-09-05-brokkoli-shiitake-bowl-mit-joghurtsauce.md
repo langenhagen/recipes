@@ -20,7 +20,7 @@ Super lecker.
 
 Für die Joghurtsauce:
 
-- 200g griechischer Joghurt
+- 200g Joghurt
 - 1 EL Erdnussmus
 - 1 Knoblauchzehe, fein gehackt
 - 1 EL Zitronensaft
