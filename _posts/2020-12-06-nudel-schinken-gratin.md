@@ -6,25 +6,29 @@ tags: [casserole, pasta]
 ---
 # Nudel-Schinken-Gratin
 
-- 500g Spirelli
-- 400g Kochschinken
-- 400ml Sahne
-- 700ml Milch
+- 300g Spirelli
+- 200g Kochschinken
+- 200ml Sahne
+- 400ml Milch
 - 2 EL Butter
 - 2 Eigelb
-- 2 große Zwiebel(n)
+- 1 große Zwiebel
 - 2 EL Mehl
-- 400g Emmentaler
+- 200g Emmentaler
 - etwas Parmesan
-- 2 Handvoll frische Petersilie
+- 1 Handvoll frische Petersilie
 - Muskat
 - schwarzer Pfeffer
+- Gemüse wie z.B. Brokkoli, Erbsen oder Pilze, optional
 
-Zwiebeln und Schinken würfeln und in einem großen Topf in Butter anbraten.  
 Optional Nudeln sehr kurz kochen.  
-Mehl zu den Zwiebeln hinzugeben geben und leicht bräunen.  
+Zwiebel und Schinken würfeln.  
+Beides in einem großen Topf in Butter anbraten.  
+Mehl hinzugeben und leicht bräunen.  
 Sahne und Milch hinzu geben und aufkochen lassen.  
 Eigelbe unter rühren.  
+Optional Gemüse oder Pilze hinzu geben.  
 Mit Parmesan, Petersilie und Pfeffer und Muskat abschmecken.  
-Nudeln in eine Auflaufform geben und mit dem Käse bestreuen.  
+Nudeln und Sauce in eine Auflaufform geben.  
+Alles mit dem Emmentaler bestreuen.  
 Alles bei 175° Umluft für 30 Minuten im Ofen backen.  
