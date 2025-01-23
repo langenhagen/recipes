@@ -6,7 +6,7 @@ tags: [soup, vegan]
 ---
 # Linsensuppe
 
-- 200g rote Linsen
+- 1 Tasse rote Linsen
 - 1 Zwiebel, fein gehackt
 - 1 Karotte, fein gewürfelt
 - 1 Stange Sellerie, fein gewürfelt
