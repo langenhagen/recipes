@@ -18,7 +18,7 @@ tags: [rice, vegan]
 - Kreuzkümmel
 - Pfefferkörner, grob zerstoßen
 - Olivenöl
-- Petersilie, optional
+- Petersilie (optional)
 
 
 Wasser in einem Topf aufkochen.  

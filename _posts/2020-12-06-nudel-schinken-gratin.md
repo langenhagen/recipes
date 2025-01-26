@@ -19,7 +19,7 @@ tags: [casserole, pasta]
 - 1 Handvoll frische Petersilie
 - Muskat
 - schwarzer Pfeffer
-- Gemüse wie z.B. Brokkoli, Erbsen oder Pilze, optional
+- Gemüse wie z.B. Brokkoli, Erbsen oder Pilze (optional)
 
 Optional Nudeln sehr kurz kochen.  
 Zwiebel und Schinken würfeln.  

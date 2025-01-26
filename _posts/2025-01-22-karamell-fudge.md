@@ -11,8 +11,8 @@ tags: [easy, sweet]
 - 125g Butter
 - 2 EL Heller Sirup (z. B. Zuckerrübensirup oder Ahornsirup)
 - 1 Vanilleschote
-- 1 Prise Kaffeepulver, optional
-- 1 Prise Salz, optional
+- 1 Prise Kaffeepulver (optional)
+- 1 Prise Salz (optional)
 
 Rechteckige Backform (ca. 20x20 cm) mit Backpapier auslegen.  
 Vanilleschote auskratzen.  

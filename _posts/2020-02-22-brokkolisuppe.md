@@ -11,7 +11,7 @@ tags: [soup, easy]
 - 1 Knoblauchzehe
 - 1 Zwiebel
 - Salz & Pfeffer
-- 100ml saure Sahne, optional
+- 100ml saure Sahne (optional)
 - Olivenöl
 
 Brokkoli, Zwiebeln und Knoblauch fein hacken.  

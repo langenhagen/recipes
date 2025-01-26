@@ -15,7 +15,7 @@ Einfach und lecker.
 - 1 TL Kreuzkümmel
 - 1 TL Paprikapulver
 - Sojasauce
-- Senf, optional
+- Senf (optional)
 - Salz, Pfeffer nach Geschmack
 - Kokosöl
 

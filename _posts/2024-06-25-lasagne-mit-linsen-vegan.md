@@ -23,7 +23,7 @@ Für die Sauce:
 - 1 Bund frischer Basilikum, gehackt
 - Gewürze wie Kreuzkümmel, Kurkuma, Bockshornkleesammen
 - Salz und Pfeffer nach Belieben
-- kräftiger Rotwein, optional
+- kräftiger Rotwein (optional)
 
 Für die Vegane Béchamelsauce:
 - 3 EL Margarine

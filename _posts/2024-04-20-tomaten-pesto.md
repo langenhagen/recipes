@@ -11,10 +11,10 @@ tags: [easy, fast, pasta, sauce]
 - 3 EL Olivenöl (nach Bedarf, je nach Konsistenz)
 - 50g Parmesan
 - 2 Knoblauchzehen
-- optional 3 Handvoll frischer Basilikum
-- 4 EL Balsamico-Essig, optional
+- 3 Handvoll frischer Basilikum (optional)
+- 4 EL Balsamico-Essig, (optional)
 - Salz und Pfeffer nach Geschmack
-- Optional 1 EL Weizenkleie
+- 1 EL Weizenkleie (optional)
 
 Die eingelegten getrockneten Tomaten abtropfen lassen.  
 Optional die Pinienkerne in einer Pfanne goldbraun rösten.  
