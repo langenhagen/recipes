@@ -13,6 +13,6 @@ tags: [sweet, baking]
 - 2 Messerspitzen Backpulver
 - 1 EL Sojamehl
 - 3 EL Sojamilch
-- 125g Zartbitterschokolade (700ge)
+- 125g Zartbitterschokolade
 
 Alles mixen und bei 150° C 25 Minuten backen.  
