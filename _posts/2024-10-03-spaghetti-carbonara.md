@@ -13,6 +13,7 @@ tags: [easy,fast,meat,pasta]
 - 2 Knoblauchzehen, fein geschnitten
 - Salz, Pfeffer
 - Etwas Nudelkochwasser
+- Zitronenzeste (optional)
 
 Spaghetti kochen.  
 Speck in einer Pfanne anbraten, Knoblauch hinzugeben.  
@@ -21,4 +22,5 @@ Eigelb mit Parmesan, Salz und Pfeffer in einer Schüssel vermischen.
 Spaghetti abgießen, dabei etwas Kochwasser aufbewahren.  
 Spaghetti mit Speck in die Pfanne geben, Pfanne vom Herd nehmen.  
 Eigelb-Parmesan-Mischung unter die Spaghetti mischen, dabei etwas Nudelwasser hinzufügen.  
+Optional Zitronenzeste unterrühren.  
 Sofort servieren.  
