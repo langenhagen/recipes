@@ -7,7 +7,7 @@ tags: [sweet, baking]
 # Einfacher Schokokuchen
 
 - 2 Eier
-- 300g Zucker
+- 250g Zucker
 - 200g Mehl
 - 100g Kakaopulver
 - 200ml Milch
