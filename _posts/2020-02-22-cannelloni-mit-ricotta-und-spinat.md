@@ -23,7 +23,7 @@ tags: [pasta, casserole]
 
 Pinienkerne rösten.  
 Parmesan reiben.  
-Ricotta, Ei uns 3 EL Parmesan vermischen, Salz und Pfeffer und Pinienkerne hinzu.  
+Ricotta, Ei und 3 EL Parmesan vermischen, Salz und Pfeffer und Pinienkerne hinzu.  
   
 Zwiebeln fein würfeln und jeweils eine Zwiebel in einem separaten Topf anschwitzen.  
 Knoblauch pressen und zu gleichen Teilen in beide Töpfe packen.  
