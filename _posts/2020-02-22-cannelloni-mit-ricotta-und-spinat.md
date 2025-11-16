@@ -36,6 +36,7 @@ Milch hinzugeben und für 2 Minuten köcheln lassen.
 2 EL Parmesan, Salz, Pfeffer und Muskat hinzu.  
   
 Form fetten, Hälfte der Tomatensoße in die Form.  
+Spinatpampe kurz pürieren.  
 Spinatpampe mit Ricotta-Masse vermengen, Cannelloni damit füllen und diese in die Form legen.  
 Tipp: Die Cannelloni mit einem passenden Trichter füllen, geht schneller.  
 Rest der Tomatensauce darüber gießen.  
