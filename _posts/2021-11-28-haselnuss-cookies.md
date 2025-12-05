@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cookies
+title: Haselnuss-Cookies
 date: 2021-11-28
 tags: [sweet, baking]
 ---
