@@ -15,7 +15,7 @@ Für den Teig:
 
 Für die Füllung:
 - 2-3 Stangen Lauch, in Ringe geschnitten
-- 2-3 Tomaten, gewürfelt oder in Scheiben
+- 2-3 Tomaten, gewürfelt
 - 150g Speckwürfel
 - 3 Eier
 - 200ml Sahne (alternativ durch Milch erstetzen, ist leichter)
@@ -25,7 +25,8 @@ Für die Füllung:
 
 Mehl, Butter und Salz mit den Fingern verneten.  
 Ei zugeben und alles zu einem glatten Teig verkneten.  
-Teig zu einer Kugel formen und 30 Minuten kaltstellen.  
+Teig zu einer Kugel formen.  
+30 Minuten kaltstellen.  
 
 Speck in einer Pfanne bei mittlerer Hitze ohne Fett auslassen, bis er leicht knusprig ist.  
 Speck aus der Pfanne nehmen und beiseite stellen.  
