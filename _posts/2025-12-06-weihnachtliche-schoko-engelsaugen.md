@@ -39,4 +39,3 @@ Nach Belieben dekorieren, z.B. mit Mandelkernen.
 Schokolade fest werden lassen.  
 
 ![Weihnachtliche Engelsaugen](/{{ site.baseurl }}/assets/images/weihnachtliche-schoko-engelsaugen1.jpg)
-![Weihnachtliche Engelsaugen](/{{ site.baseurl }}/assets/images/weihnachtliche-schoko-engelsaugen2.jpg)
