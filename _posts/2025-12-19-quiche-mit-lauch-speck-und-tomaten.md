@@ -7,7 +7,7 @@ tags: [meat, savoury]
 # Quiche mit Lauch, Speck und Tomaten
 Herzhaft und klassisch.
 
-Für den Teig:
+Für den Mürbeteig:
 - 200g Mehl
 - 100g kalte Butter
 - 1 Ei
