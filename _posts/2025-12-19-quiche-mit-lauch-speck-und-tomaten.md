@@ -15,7 +15,7 @@ Für den Mürbeteig:
 
 Für die Füllung:
 - 2-3 Stangen Lauch, in Ringe geschnitten
-- 2-3 Tomaten, gewürfelt
+- 2-3 Tomaten, gewürfelt (optional)
 - 150g Speckwürfel
 - 3 Eier
 - 200ml Sahne (alternativ durch Milch erstetzen, ist leichter)
@@ -35,7 +35,7 @@ Lauch in der gleichen Pfanne kurz andünsten.
 Eier mit Sahne (oder Milch) verquirlen.  
 Mit Salz, Pfeffer und Muskatnuss würzen.  
 Lauch, Speck und Käse unterheben.  
-Tomaten zuletzt unterziehen.  
+Optional Tomaten zuletzt unterziehen.  
 
 Backofen auf 180 °C Ober-/Unterhitze vorheizen.  
 Teig auf bemehlter Fläche ausrollen und die Quicheform damit auslegen.  
