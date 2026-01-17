@@ -30,8 +30,9 @@ Zwiebeln und Karotten zugeben und glasig anbraten.
 Mehl einrühren und kurz mitschwitzen.  
 Angebratene Mischung zu den Linsen geben und gut verrühren.  
 Mit Essig, Senf, Zucker, Salz und Pfeffer abschmecken.  
-Spätzle kochen.
-Sobald sie an der Oberfläche schwimmen, Spätzle in der Pfanne anbraten mit Butter anbraten.  
+Spätzle kochen.  
+Sobald sie an der Oberfläche schwimmen, Spätzle in der Pfanne mit Butter anbraten.  
 Linsen und Brühe in die Pfanne hinzu geben.  
 Nach Belieben mit Röstzwiebeln und gehackten Frühlingszwiebeln garnieren.  
+
 Dazu passen Wiener Würstchen oder ein grüner Salat.  
