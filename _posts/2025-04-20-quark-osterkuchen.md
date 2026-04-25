@@ -18,7 +18,7 @@ Locker und saftig, nicht zu süß.
 - 1 Prise Salz
 - 125g Quark (20 % Fett)
 
-Backofen auf 160° C Umluft vorheizen.  
+Backofen auf 160 °C Umluft vorheizen.  
 Form gründlich mit Butter fetten und mit Mehl bestäuben, Überschuss abklopfen.  
 Butter mit Zucker, Vanille und Salz cremig rühren (mindestens 2 Minuten).  
 Eier nacheinander unterrühren.  

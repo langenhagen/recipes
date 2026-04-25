@@ -19,7 +19,7 @@ tags: [meat]
 Hähnchenbrustfilets mit Salz, Pfeffer und Paprikapulver würzen.  
 Gemüse in eine Schüssel geben, mit Olivenöl, gehacktem Knoblauch, Honig und Salz, Pfeffer vermengen.  
 Orange in Scheiben schneiden.  
-Backofen auf 175° C vorheizen.  
+Backofen auf 175 °C vorheizen.  
 Gemüse auf einem mit Backpapier ausgelegten Blech verteilen.  
 Hähnchenbrustfilets auf das Gemüse legen.  
 Orangenscheiben und Rosmarin darüber verteilen.  

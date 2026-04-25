@@ -30,4 +30,4 @@ Mit Milch löschen und 2 Minuten köcheln lassen.
 Mit Salz, Pfeffer und Muskatnuss würzen.  
 
 Lasagne mit Platten, Fleischmischung, Sauce und Käse schichten und mit Platte, Sauce und Käse abdecken.  
-40 Minuten bei 180° Backen.  
+40 Minuten bei 180 °C Backen.  

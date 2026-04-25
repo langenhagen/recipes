@@ -16,4 +16,4 @@ tags: [sweet, baking]
 - 2 Messerspitzen Natron
 
 Alles mixen und löffelweise auf einem Blech mit Backpapier verteilen.  
-Alles bei 150° C 25 Minuten backen.  
+Alles bei 150 °C 25 Minuten backen.  

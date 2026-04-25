@@ -25,7 +25,7 @@ Alle Zutaten für den Teig in eine Schüssel geben und mit den Händen zu einem 
 Wenn der Teig sich schlecht verbindet, schluckweise Wasser zugeben.  
 Den Teig in Frischhaltefolie wickeln und 2 Stunden im Kühlschrank ruhen lassen.  
 
-Backofen auf 150° C vorheizen.  
+Backofen auf 150 °C vorheizen.  
 Aus dem Teig kleine Kugeln formen.  
 Kugeln mit etwas Abstand auf ein mit Backpapier belegtes Blech legen.  
 Mit einem Kochlöffelstiel vorsichtig eine Vertiefung in jede Kugel drücken.  

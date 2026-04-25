@@ -33,4 +33,4 @@ Optional Gemüse oder Pilze hinzu geben.
 Mit Parmesan, Petersilie und Pfeffer und Muskat abschmecken.  
 Nudeln und Sauce in eine Auflaufform geben.  
 Alles mit dem Emmentaler bestreuen.  
-Alles bei 175° Umluft für 30 Minuten im Ofen backen.  
+Alles bei 175 °C Umluft für 30 Minuten im Ofen backen.  

@@ -45,7 +45,7 @@ Teigrolle in 10 - 12 Schnecken schneiden.
 Schnecken in die Kuchenform legen, sodass die schneckenkringel nach oben zeigen. Die Schnecken gehen weiter auf, deshalb ein bisschen Platz zwischen den Schnecken lassen.  
 Schnecken 30 Minuten zugedeckt ruhen lassen  
 
-Backofen auf 180° C (Umluft: 160° C) vorheizen.  
+Backofen auf 180 °C (Umluft: 160 °C) vorheizen.  
 Schnecken ca. 25 Minuten backen.  
 
 Etwas auskühlen lassen.  

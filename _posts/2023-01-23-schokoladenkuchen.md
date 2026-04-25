@@ -30,7 +30,7 @@ Weiche Butter mit Zucker, Vanille und Salz schaumig schlagen.
 Eier hinzu geben.  
 Mehlmischung unter Rühren zu der Buttermischung geben.  
 Geraspelte Schokolade unterrühren.  
-Alles für 35 Minuten bei 160° backen.  
+Alles für 35 Minuten bei 160 °C backen.  
 
 Restliche Schokolade langsam erhitzen bis sie flüssig ist.  
 Flüssige Schokomasse über den Kuchen verteilen.  

@@ -31,4 +31,4 @@ Hähnchenbrust halbieren, Keulchen durchschneiden.
 Zitronenschale in Scheiben abraspeln und beiseite legen.  
 Halbe Zitrone Pressen.  
 Fleisch mit Saft beträufeln, Salz, Pfeffer dazu.  
-Aufs Blech und bei 180 Grad eine Stunde im Ofen braten.  
+Aufs Blech und bei 180 °C eine Stunde im Ofen braten.  

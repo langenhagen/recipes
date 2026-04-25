@@ -31,4 +31,4 @@ Hähnchen hinzu.
 Gnocchi und Fleisch eine AUflaufform geben und mit der Soße übergießen.  
 Restlichen Parmesan darüber streuen.  
 
-Alles im Ofen bei 180° C im Ofen für 15 Minuten backen.  
+Alles im Ofen bei 180 °C im Ofen für 15 Minuten backen.  

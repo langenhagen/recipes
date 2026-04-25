@@ -32,7 +32,7 @@ Pfanne mit Salz und Pfeffer abschmecken.
 Eine Auflaufform mit einer Schicht Tortilla-Chips auslegen.  
 Die Hackfleischmischung darauf verteilen und nach Belieben schichten.  
 Mit geriebenem Käse bestreuen.  
-Im vorgeheizten Ofen bei 150°C ca. 15 Minuten überbacken.  
+Im vorgeheizten Ofen bei 150 °C ca. 15 Minuten überbacken.  
 Herausnehmen, wenn der Käse geschmolzen und goldbraun ist.  
 
 Nach Wunsch mit Salsa, Guacamole oder saurer Sahne servieren.  

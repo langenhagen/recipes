@@ -33,4 +33,4 @@ Alles mit Salz, Pfeffer und Cayennepfeffer kräftig würzen.
 Auflaufform fetten, Bohnen hinein füllen und Filets darauf legen.  
 Sahne mit geriebenem Parmesan mischen und drüber gießen.  
 
-Form für 25 Minuten bei 180° C auf mittlere Stufe in den vorgeheizten Ofen.  
+Form für 25 Minuten bei 180 °C auf mittlere Stufe in den vorgeheizten Ofen.  

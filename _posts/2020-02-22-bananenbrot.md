@@ -20,4 +20,4 @@ tags: [sweet, baking]
 
 Alle Zutaten zu einem homogenen cremigen Teig anrühren.  
 Brotform einfetten und Teig hinein geben.  
-Bananenbrot bei 170° für etwa 35 Minuten backen.  
+Bananenbrot bei 170 °C für etwa 35 Minuten backen.  

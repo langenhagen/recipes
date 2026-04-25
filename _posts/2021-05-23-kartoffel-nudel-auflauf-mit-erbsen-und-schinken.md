@@ -31,4 +31,4 @@ Schinken fein würfeln.
 Gemüse zusammen mit der Sauce und dem Schinken in einer Auflaufform verteilen.  
 Käse reiben und darüber geben.  
 
-Alles im Ofen bei 175° C für etwa 25 Minuten backen.  
+Alles im Ofen bei 175 °C für etwa 25 Minuten backen.  

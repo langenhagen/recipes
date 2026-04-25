@@ -58,7 +58,7 @@ Für 10 Minuten köcheln lassen, bis die Sauce merklich eingedickt ist.
 Mit Zitronensaft, Salz, Pfeffer und Muskatnuss abschmecken.  
 
 Lasagne Schichten:  
-Backofen auf 180°C Umluft vorheizen.  
+Backofen auf 180 °C Umluft vorheizen.  
 Eine dünne Schicht Béchamelsauce in einer Auflaufform verteilen.  
 Lasagneblätter darauf legen, dann ⅓ der Linsen-Bolognese, ⅓ der Béchamelsauce und sparsam Hefeflocken  verteilen.  
 Diesen Schichtvorgang zweimal wiederholen.  

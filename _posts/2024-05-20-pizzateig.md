@@ -21,7 +21,7 @@ Alles mit der Hand glatt kneten.
 Etwa 24 Stunden gehen lassen.  
 
 Pizza zubereiten:  
-Ofen auf 225° C vorheizen.  
+Ofen auf 225 °C vorheizen.  
 Ein Ofenblech mit Backpapier auslegen.  
 Teig mit etwas Mehl sehr dünn ausrollen.  
 Teig aufs Ofenblech legen.  

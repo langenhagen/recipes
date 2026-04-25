@@ -21,7 +21,7 @@ Filets grob würfeln und in Schüssel tun.
 Safran mahlen, 1 Zwiebel klein hacken.  
 Jogurt mit Zitronensaft, Salz, Zwiebel und Safran zu Marinade anrühren und Hühnchen hinzu tun.  
 Hühnchen samt Marinade glatt auf einem Backblech oder einem andern Behältnis ausbreiten.  
-Hühnchen für 40 Minuten bei 200° backen.  
+Hühnchen für 40 Minuten bei 200 °C backen.  
 
 Reis kochen.  
 

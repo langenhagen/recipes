@@ -26,6 +26,6 @@ Alles verrühren.
 Sollte der Teig zu trocken sein, ein klein wenig Wasser hinzu geben.  
 
 Mithilfe von Teelöffeln, Keks-Kleckse auf ein Backblech verteilen.  
-Bei 160° Umluft für 10-12 Minuten backen.  
+Bei 160 °C Umluft für 10-12 Minuten backen.  
 
 Optional kann man auch Kakaopulver hinzu geben.  

@@ -43,4 +43,4 @@ Mozzarella in Scheiben schneiden.
 
 Lasagne wie folgt schichten: Béchamel, Nudelplatten, Gemüse, Mozzarella, Parmesan, Béchamel.  
 Zum Abschluss Béchamel und Parmesan drauf.  
-Lasagne mit etwas Olivenöl beträufeln und im Ofen bei 160° 45 Minuten backen.  
+Lasagne mit etwas Olivenöl beträufeln und im Ofen bei 160 °C 45 Minuten backen.  

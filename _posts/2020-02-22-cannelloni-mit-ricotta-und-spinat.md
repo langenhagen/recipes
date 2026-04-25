@@ -42,5 +42,5 @@ Tipp: Die Cannelloni mit einem passenden Trichter füllen, geht schneller.
 Rest der Tomatensauce darüber gießen.  
 Bechamelsauce darüber gießen und restlichen Käse drüber streuen.  
 
-Form dann für 25 Minuten bei 225° C mit Alufolie in den Backofen.  
+Form dann für 25 Minuten bei 225 °C mit Alufolie in den Backofen.  
 Alufolie nach 15 abnehmen.  

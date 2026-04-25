@@ -20,7 +20,7 @@ Zucchini in feine Scheiben schneiden.
 2 Knoblauchzehen in feine Scheiben schneiden.  
 Zucchini, 1 Zehe Knoblauch und etwas Salz in eine Schale mit Wasser geben.  
 10-30 Minuten ruhen lassen.  
-Backofen auf 175° C Umluft vorheizen.  
+Backofen auf 175 °C Umluft vorheizen.  
 Mozzarella reiben.  
 Pizzateig ausrollen und dünn mit Olivenöl beträufeln.  
 Mozzarella auf dem Teig verteilen.  

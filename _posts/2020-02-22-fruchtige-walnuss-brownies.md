@@ -27,4 +27,4 @@ Aprikosen mit der Hälfte der Nüsse, dem Mehl, dem Kakao und Backpulver zur fl�
 Alles zusammen rühren und Öl hinzu.  
 Masse auf Backpapier verstreichen und mit restlichen Nüssen belegen.  
 
-Teig 25 Minuten bei 180° C backen.  
+Teig 25 Minuten bei 180 °C backen.  

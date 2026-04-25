@@ -18,7 +18,7 @@ tags: [fish, potatoes]
 
 Optional Lachs in einer Honig-Sauce marinieren.  
 
-Ofen auf 180° C vorheizen.  
+Ofen auf 180 °C vorheizen.  
 Kartoffeln in feine Scheiben schneiden.  
 Zwiebeln vierteln.  
 Knoblauch hablbieren.  

@@ -12,4 +12,4 @@ tags: [sweet, baking, easy]
 
 Eier schaumig schlagen.  
 Restliche Zutaten unterrühren.  
-Alles bei 160° für 12 Minuten backen.  
+Alles bei 160 °C für 12 Minuten backen.  

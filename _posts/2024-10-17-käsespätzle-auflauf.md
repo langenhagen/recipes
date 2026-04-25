@@ -19,7 +19,7 @@ Einfacher herzhafter soulfood.
 - 1 EL Schnittlauch, gehackt (optional)
 - Röstzwiebeln (optional)
 
-Ofen auf 180°C vorheizen.  
+Ofen auf 180 °C vorheizen.  
 Zwiebeln in Butter bei mittlerer Hitze goldbraun braten.  
 Optional Hackfleisch hinzu geben und mit braten.  
 Sahne und Milch mischen und mit Salz, Pfeffer und Muskatnuss würzen.  

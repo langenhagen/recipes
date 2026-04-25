@@ -11,7 +11,7 @@ tags: [bbq, easy, meat, savoury]
 - 20 Zahnstocher
 - optional: Mandeln oder Ziegenkäse zum Füllen
 
-Ofen auf 180°C vorheizen, oder Grill benutzen.  
+Ofen auf 180 °C vorheizen, oder Grill benutzen.  
 Optional jede Pflaume mit einer Mandel oder etwas Ziegenkäse füllen.  
 Jede Pflaume mit einer Scheibe Speck umwickeln.  
 Mit einem Zahnstocher fixieren.  

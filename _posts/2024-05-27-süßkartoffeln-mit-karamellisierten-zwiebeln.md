@@ -17,7 +17,7 @@ Bit Sweet.
 - Salz, Pfeffer
 - Frische Petersilie
 
-Süßkartoffeln halbieren, mit einer Gabel einstechen und bei 175°C für 50 Minuten in den Backofen.  
+Süßkartoffeln halbieren, mit einer Gabel einstechen und bei 175 °C für 50 Minuten in den Backofen.  
 
 Zwiebeln schälen und in Ringe schneiden.  
 Öl und Butter in einer großen Pfanne erhitzen und die Zwiebelringe hineingeben.  

@@ -21,7 +21,7 @@ Füllung:
 Optional:  
 - Beeren, Fruchtsauce oder Karamell zum Toppen
 
-Ofen auf 160°C Ober-/Unterhitze vorheizen.  
+Ofen auf 160 °C Ober-/Unterhitze vorheizen.  
 Butter auf dem Herd langsam schmelzen.  
 Kekse fein zerbröseln und mit geschmolzener Butter mischen.  
 Masse in Muffinförmchen mit Papierförmchen drücken und fest andrücken.  

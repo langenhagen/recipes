@@ -22,7 +22,7 @@ Bananen mit Rohschinken umwickeln und mit Zahnstochern fixieren.
 Kokosöl in einer Pfanne erhitzen.  
 Umwickelte Bananen darin rundherum goldbraun anbraten.  
 Bananen aus der Pfanne nehmen, in eine Auflaufform legen und mit Emmentaler belegen.  
-Im Backofen bei 150°C ca. 15 Minuten überbacken.  
+Im Backofen bei 150 °C ca. 15 Minuten überbacken.  
 Reis kochen.  
 Restliches Bratfett in der Pfanne mit Kokosmilch ablöschen.  
 Cashews zugeben und mit Currypulver, Kreuzkümmel, Salz und Pfeffer würzen.  
