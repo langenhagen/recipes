@@ -24,5 +24,5 @@ Zucchini hinzu tun.
 Curry und Currypaste zugeben und mit Gemüsebrühe und Kokosmilch aufgießen.  
 10 Minuten köcheln lassen.  
 Alles pürieren und mit ordentlich Salz und Pfeffer abschmecken.  
-  
+
 Croutons rösten und Portionen damit garnieren.  

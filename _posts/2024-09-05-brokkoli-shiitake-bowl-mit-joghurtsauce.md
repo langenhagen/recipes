@@ -5,8 +5,7 @@ date: 2024-09-05
 tags: [rice]
 ---
 # Brokkoli-Shiitake-Bowl mit Joghurtsauce
-Super lecker.
-
+Super lecker.  
 
 - 1 Tasse Basmatireis
 - 1 Kopf Brokkoli, in Röschen geschnitten
@@ -18,7 +17,7 @@ Super lecker.
 - Salz, Pfeffer
 - 1 kleine Hand voll frische Petersilie, gehackt
 
-Für die Joghurtsauce:
+Für die Joghurtsauce:  
 
 - 200g Joghurt
 - 1 EL Erdnussmus
@@ -29,18 +28,16 @@ Für die Joghurtsauce:
 - Salz, Pfeffer
 - 1 Hand voll Frische Petersilie, gehackt
 
-
-Joghurtsauce:
+Joghurtsauce:  
 
 Knoblauch fein hacken.  
 Halbe Zitrone pressen.  
 Petersilie hacken.  
 Joghurt mit Erdnussmus, gehacktem Knoblauch, Zitronensaft, Olivenöl und Honig glatt rühren.  
 Mit Salz und Pfeffer abschmecken und gehackte Petersilie unterrühren.  
-Im Kühlschrank ziehen lassen, während der Rest zubereitet wird.
+Im Kühlschrank ziehen lassen, während der Rest zubereitet wird.  
 
-
-Hauptgericht:
+Hauptgericht:  
 
 Reis kochen.  
 Brokkoli in Röschen schneiden und in einem Dämpfeinsatz über kochendem Wasser 5-7 Minuten bissfest dämpfen.  
@@ -51,7 +48,7 @@ Sonnenblumenkerne optional in einer Pfanne ohne Öl bei mittlerer Hitze leicht g
 
 Gekochten Reis auf Teller verteilen.  
 Gedämpften Brokkoli und gebratene Pilze darauf anrichten.  
-Feta-Käse, Sonnenblumenkerneund Petersilie als Topping darüber streuen.  
+Feta-Käse, Sonnenblumenkerne und Petersilie als Topping darüber streuen.  
 Mit der Joghurtsauce servieren.  
 
-![Brokkoli-Shiitake-Bowl mit Joghurtsauce](/{{ site.baseurl }}/assets/images/brokkoli-shiitake-bowl-mit-joghurtsauce.jpg)
+![Brokkoli-Shiitake-Bowl mit Joghurtsauce](/{{ site.baseurl }}/assets/images/brokkoli-shiitake-bowl-mit-joghurtsauce.jpg)  

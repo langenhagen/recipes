@@ -17,7 +17,7 @@ tags: [easy,fast,meat,pasta]
 
 Spaghetti kochen.  
 Speck in einer Pfanne anbraten, Knoblauch hinzugeben.  
-Parmesam reiben.  
+Parmesan reiben.  
 Eigelb mit Parmesan, Salz und Pfeffer in einer Schüssel vermischen.  
 Spaghetti abgießen, dabei etwas Kochwasser aufbewahren.  
 Spaghetti mit Speck in die Pfanne geben, Pfanne vom Herd nehmen.  

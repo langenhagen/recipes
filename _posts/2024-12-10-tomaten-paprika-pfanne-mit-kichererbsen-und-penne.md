@@ -21,7 +21,7 @@ tags: [easy, pasta]
 Pasta in gesalzenem Wasser al dente kochen.  
 Optional ein halbes Glas Nudelwasser auffangen.  
 Frühlingszwiebeln in Butter bei mittlerer Hitze anschwitzen.  
-Paprika dazugeben und für 3 Minuten braten.
+Paprika dazugeben und für 3 Minuten braten.  
 Cherrytomaten dazugeben und für 7 Minuten bei geschlossenem Deckel schmoren.  
 Kichererbsen in die Pfanne geben und für weitere 3 Minuten mitgaren.  
 Mit Salz, Pfeffer und Paprikapulver würzen.  

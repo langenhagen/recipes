@@ -28,6 +28,6 @@ Salzen, Pfeffern und Knoblauch und Gewürze hinzu.
 In einem Topf Butter anbraten und Mehl hinzu geben.  
 Mit Milch löschen und 2 Minuten köcheln lassen.  
 Mit Salz, Pfeffer und Muskatnuss würzen.  
-  
+
 Lasagne mit Platten, Fleischmischung, Sauce und Käse schichten und mit Platte, Sauce und Käse abdecken.  
 40 Minuten bei 180° Backen.  

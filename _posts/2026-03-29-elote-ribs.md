@@ -5,7 +5,7 @@ date: 2026-03-29
 tags: [feast-for-the-eyes, savoury, snack, summer]
 ---
 # Elote Ribs
-Der Hammer.
+Der Hammer.  
 
 - 4 Maiskolben
 - Queso Fresco oder Paneer, zerbröselt

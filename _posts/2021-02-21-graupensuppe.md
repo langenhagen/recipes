@@ -25,4 +25,4 @@ Petersilie hacken.
 Graupen hinzu geben.  
 Mit Salz, Pfeffer und Petersilie würzen.  
 
-Dazu passt Brot.
+Dazu passt Brot.  

@@ -5,10 +5,10 @@ date: 2024-05-20
 tags: [baking, foundation, pizza]
 ---
 # Pizzateig Grundrezept
-Für etwa ein Ofenblech.
+Für etwa ein Ofenblech.  
 
 - 250g Mehl
-- 125ml laufwarmes Wasser
+- 125ml lauwarmes Wasser
 - ½ Würfel Hefe
 - 1 EL Olivenöl
 - Salz
@@ -29,4 +29,4 @@ Pizza z.B. mit passierten Tomaten begießen.
 Für 10 Minuten auf mittlerer Schiene backen.  
 Nun Pizza nach Belieben mit frischen Zutaten belegen.  
 Weiter für 5 Minuten backen.  
-Zum Schluss Pizza mit z.B. Rucolar oder Basilikum belegen und frisch servieren.  
+Zum Schluss Pizza mit z.B. Rucola oder Basilikum belegen und frisch servieren.  

@@ -5,7 +5,7 @@ date: 2026-01-06
 tags: [casserole, pasta, savoury]
 ---
 # Grünkohl-Auflauf mit getrockneten Tomaten
-Herzhaft, cremig und perfekt für kalte Tage.
+Herzhaft, cremig und perfekt für kalte Tage.  
 
 - 250g Penne
 - 300g Grünkohl (am besten frisch, alternativ TK)
@@ -32,4 +32,4 @@ Mit Pfeffer und wenig Salz abschmecken.
 Spirelli untermischen.  
 Alles in eine Auflaufform geben.  
 Mit Bergkäse bestreuen.  
-Im Ofen ca. 20 Minuten bei 200°C ober/unterhitze überbacken, bis die Oberfläche goldbraun ist.  
+Im Ofen ca. 20 Minuten bei 200 °C Ober-/Unterhitze überbacken, bis die Oberfläche goldbraun ist.  

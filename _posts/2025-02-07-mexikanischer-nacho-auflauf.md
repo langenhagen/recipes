@@ -27,7 +27,7 @@ Zwiebel und Knoblauch glasig anbraten.
 Hackfleisch hinzufügen.  
 Tomatenmark, Paprikapulver, Chilipulver und Kreuzkümmel hinzugeben.  
 Tomaten dazugeben und ca. 5 Minuten köcheln lassen.  
-Mais und Bohnen unterrühren.
+Mais und Bohnen unterrühren.  
 Pfanne mit Salz und Pfeffer abschmecken.  
 Eine Auflaufform mit einer Schicht Tortilla-Chips auslegen.  
 Die Hackfleischmischung darauf verteilen und nach Belieben schichten.  

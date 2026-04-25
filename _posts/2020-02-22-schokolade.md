@@ -16,7 +16,7 @@ Mark aus der Vanilleschote entnehmen.
 Kokosfett im Wasserbad auflösen.  
 Wenn das Kokosfett geschmolzen ist, alle Zutaten gesiebt unter ständigem Rühren hinzu geben.  
 Alles für 2 Stunden in den Kühlschrank stellen und aushärten lassen.  
-  
+
 Schokolade kann etwa mit...  
 - einem Schuss Wodka, Rum oder Amaretto
 - Trockenfrüchten (Mango, Kirschen, Rosinen, Blaubeeren)

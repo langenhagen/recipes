@@ -21,8 +21,7 @@ Spinat mit der Sahne aufkochen.
 Parmesan reiben.  
 Brühe zur Soße hinzu geben.  
 Etwas vom Parmesan in die Soße geben.  
-Soße mit Salz und Pfeffer würzen.  
-
+Soße mit Salz, Pfeffer würzen.  
 
 Zwiebel würfeln.  
 Hähnchen würfeln.  

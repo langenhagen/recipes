@@ -6,12 +6,12 @@ tags: [sweet]
 ---
 # Pistaziencreme
 
-- 100 g Pistazien (ungesalzen, geschält)
-- 75 g weiße Schokolade
-- 50 ml Sahne
-- 25 g Butter
-- 25 g Puderzucker
-- 1/2 TL Vanilleextrakt (optional)
+- 100g Pistazien (ungesalzen, geschält)
+- 75g weiße Schokolade
+- 50ml Sahne
+- 25g Butter
+- 25g Puderzucker
+- ½ TL Vanilleextrakt (optional)
 - 2 EL Kleie (optional)
 
 Pistazien und optional Kleie mit dem Mixer fein mahlen.  

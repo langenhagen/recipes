@@ -13,12 +13,12 @@ tags: [easy, fast, pasta, sauce]
 - 2 Knoblauchzehen
 - 3 Handvoll frischer Basilikum (optional)
 - 4 EL Balsamico-Essig, (optional)
-- Salz und Pfeffer nach Geschmack
+- Salz, Pfeffer nach Geschmack
 - 1 EL Weizenkleie (optional)
 
 Die eingelegten getrockneten Tomaten abtropfen lassen.  
 Optional die Pinienkerne in einer Pfanne goldbraun rösten.  
 Alle Zutaten mit einem Mixer geben und gut durch mixen.  
-Mit Salz, Pfeffer und optional Balsamico-Essig abschmecken.
+Mit Salz, Pfeffer und optional Balsamico-Essig abschmecken.  
 
-Pesto hält sich eine etwa Woche im Kühlschrank lang und passt zu Nudeln oder als Aufstrich und Dip.
+Pesto hält sich eine etwa Woche im Kühlschrank lang und passt zu Nudeln oder als Aufstrich und Dip.  

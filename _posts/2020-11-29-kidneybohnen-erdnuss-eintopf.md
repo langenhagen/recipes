@@ -18,7 +18,6 @@ tags: [soup]
 - 1 TL Salz
 - Reis
 
-
 Reis kochen.  
 Zwiebel würfeln und in einer Pfanne mit dem Öl glasig dünsten.  
 Tomaten grob würfeln, zu den Zwiebeln geben.  
@@ -26,11 +25,11 @@ Bei mittlerer Hitze 5 Minuten köcheln lassen, bis die Tomaten zerfallen.
 Knoblauch fein hacken.  
 Bohnen abtropfend und Bohnenwasser auffangen.  
 Knoblauch zusammen mit dem Kreuzkümmel, Sambal Oelek und den Bohnen in den Topf geben.  
-Erdnussbutter unterrühren, mit Salz abschmecken und kurz aufkochen
+Erdnussbutter unterrühren, mit Salz abschmecken und kurz aufkochen.  
 Anschließend alles bei mittlerer Hitze mit Deckel 3 Minuten köcheln lassen.  
-  
+
 Bei Bedarf 50ml Wasser oder das Aquafaba der Kidneybohnen dazugeben.  
-  
+
 Petersilie fein hacken und als Topping benutzen.  
-  
+
 Dazu passt Fladenrbot.  

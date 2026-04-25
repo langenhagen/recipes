@@ -24,5 +24,5 @@ Gemüsescheiben in reichlich Olivenöl braten.
 Tomaten halbieren, Salatgurke in Scheiben schneiden, Gewürzgurken länglich oder schräg schneiden.  
 Blattsalat mit Salatgurkenscheiben, Gewürzgurkenscheiben und Tomaten, auf den Teller tun.  
 Darauf gebratenes Gemüse tun, Dressing hinzu und darüber Nüsse bzw Kerne streuen.  
-  
+
 Optional kann man frisches helles Brot im restlichen Öl anbraten und dazu servieren.  

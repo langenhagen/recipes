@@ -5,9 +5,9 @@ date: 2025-12-06
 tags: [baking, sweet]
 ---
 # Weihnachtliche Schoko Engelsaugen
-Nach einer Empfehlung von Samantha, angepasst.
+Nach einer Empfehlung von Samantha, angepasst.  
 
-Für den Keks:
+Für den Keks:  
 - 275g Mehl
 - 25g Backkakao
 - 80g Puderzucker
@@ -17,7 +17,7 @@ Für den Keks:
 - 1 TL Zimt (optional)
 - 1 Prise Salz
 
-Für die Füllung:
+Für die Füllung:  
 - 100g weiße Schokolade
 - Deko nach Wahl (z.B. Mandeln)
 
@@ -38,4 +38,4 @@ Mit einem Teelöffel vorsichtig die Vertiefungen mit der flüssigen Schokolade f
 Nach Belieben dekorieren, z.B. mit Mandelkernen.  
 Schokolade fest werden lassen.  
 
-![Weihnachtliche Engelsaugen](/{{ site.baseurl }}/assets/images/weihnachtliche-schoko-engelsaugen1.jpg)
+![Weihnachtliche Engelsaugen](/{{ site.baseurl }}/assets/images/weihnachtliche-schoko-engelsaugen1.jpg)  

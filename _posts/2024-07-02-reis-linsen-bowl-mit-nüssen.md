@@ -9,10 +9,10 @@ tags: [rice, vegan]
 - 1 Tasse Reis
 - 1 Tasse rote Linsen
 - 1 Handvoll Radieschen, in feine Scheiben geschnitten
-- 1/2 Tasse Nüsse, z.B. Walnüsse oder Mandeln, grob gehackt
+- ½ Tasse Nüsse, z.B. Walnüsse oder Mandeln, grob gehackt
 - 1 große Zwiebel, fein gehackt
 - 2 Knoblauchzehen, fein gehackt
-- 1/4 Paprika, mundgerecht gestückelt
+- ¼ Paprika, mundgerecht gestückelt
 - 4 EL Hummus
 - 2-3 Frühlingszwiebeln, in Ringe geschnitten
 - Kreuzkümmel
@@ -20,10 +20,10 @@ tags: [rice, vegan]
 - Olivenöl
 - Petersilie (optional)
 
-
 Wasser in einem Topf aufkochen.  
 Reis und Linsen hinzu und kochen.  
-Reis in einem Topf mit der doppelten Menge Wasser und etwas Salz zum Kochen bringen. Hitze reduzieren und zugedeckt etwa 15-20 Minuten köcheln lassen, bis der Reis gar ist.  
+Reis in einem Topf mit der doppelten Menge Wasser und etwas Salz zum Kochen bringen.  
+Hitze reduzieren und zugedeckt etwa 15-20 Minuten köcheln lassen, bis der Reis gar ist.  
 In einer Pfanne mit Olivenöl Zwiebeln und Knoblauch anbraten.  
 Den gekochten Reis und die Linsen zu den Zwiebeln in dei Pfanne geben.  
 Paprika hinzu geben.  
@@ -32,7 +32,7 @@ Radieschenscheiben unter heben.
 
 Die Reis-Linsen-Mischung auf Teller verteilen.  
 Nüsse und Frühlingszwiebeln darüber verteilen.  
-Humus hinzu geben.  
+Hummus hinzu geben.  
 
 Optional mit frischen Kräutern wie Petersilie garnieren.  
 

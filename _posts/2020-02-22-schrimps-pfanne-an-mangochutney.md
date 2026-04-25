@@ -20,7 +20,7 @@ tags: [seafood]
 - Öl
 
 Reis mit Wasser im Verhältnis 1 zu 2 kochen.  
-  
+
 Schrimps abtropfen.  
 Zwiebel würfeln.  
 Paprika in mundgerechte Streifen schneiden.  

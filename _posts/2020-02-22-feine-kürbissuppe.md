@@ -34,7 +34,7 @@ Mark der Vanilleschote auskratzen und mit dem Ingwer in den Topf geben.
 20 Minuten köcheln lassen, die Vanilleschote mitziehen lassen.  
 Gewürze und Schlagsahne hinzu, Vanilleschote heraus nehmen.  
 Alles pürieren.  
-  
+
 Zum Essen nach Belieben etwas Orangensaft und einrühren, je nach Geschmack saure Sahne auf den Teller.  
-  
+
 Wenn möglich, noch mit etwas Kürbiskernöl beträufeln.  

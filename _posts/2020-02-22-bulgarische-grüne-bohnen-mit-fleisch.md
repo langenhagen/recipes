@@ -26,5 +26,5 @@ Bohnen einschichten, Paprika hinzu, Paprikapulver, Bohnenkraut und Knoblauch hin
 Alles durchrühren und etwas schmoren.  
 Brühe, Tomaten, Tomatenmark hinzu mit Salz und Pfeffer würzen und 1-1¼ Stunden kochen.  
 Abschmecken.  
-  
+
 Dazu passen sehr gut Kartoffeln, Kartoffelbrei oder Klöße.  
