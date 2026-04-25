@@ -22,9 +22,9 @@ tags: [meat, rice]
 Reis kochen.  
 Öl in einer Pfanne erhitzen und Hähnchen bei mittlerer Hitze goldbraun anbraten.  
 Hähnchen aus der Pfanne nehmen und beiseite stellen.  
-Sellerie, Brokkoli und Tomaten in derselben Pfanne 2–3 Minuten anbraten.  
+Sellerie, Brokkoli und Tomaten in derselben Pfanne 2-3 Minuten anbraten.  
 Currypaste einrühren und 1 Minute anbraten, damit sich die Aromen entfalten.  
 Kokosmilch hinzufügen und gut umrühren.  
 Senf, Sojasauce und Limettensaft dazugeben und alles aufkochen lassen.  
 Hähnchen und Kichererbsen in die Pfanne geben und mit Salz, Pfeffer abschmecken.  
-Alles 5–7 Minuten köcheln lassen, bis das Gemüse weich, aber bissfest ist.  
+Alles 5-7 Minuten köcheln lassen, bis das Gemüse weich, aber bissfest ist.  

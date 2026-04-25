@@ -16,7 +16,7 @@ tags: [pasta]
 
 Knoblauch und Ingwer in Öl bei mittlerer Hitze kurz anbraten.  
 Orangensaft, Kokosmilch und Brühe dazugeben und gut umrühren.  
-Sauce 5–10 Minuten bei niedriger Hitze einkochen lassen.  
+Sauce 5-10 Minuten bei niedriger Hitze einkochen lassen.  
 Mit Salz und Pfeffer abschmecken.  
 Gekochte Nudeln unter die Sauce mischen.  
 Heiß servieren.  

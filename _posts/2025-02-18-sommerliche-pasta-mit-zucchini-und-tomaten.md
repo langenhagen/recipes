@@ -21,7 +21,7 @@ Pasta in Salzwasser al dente kochen.
 Zucchini in dünne Halbmonde schneiden, Tomaten würfeln.  
 Olivenöl in einer Pfanne erhitzen.  
 Knoblauch fein hacken und kurz anschwitzen.  
-Zucchini hinzufügen und 3–4 Minuten anbraten.  
+Zucchini hinzufügen und 3-4 Minuten anbraten.  
 Tomaten dazugeben und mit Salz, Pfeffer würzen.  
 Pasta abgießen, dabei etwas Nudelwasser auffangen.  
 Pasta mit etwas Nudelwasser in die Pfanne geben.  

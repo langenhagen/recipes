@@ -16,7 +16,7 @@ Optional jede Pflaume mit einer Mandel oder etwas Ziegenkäse füllen.
 Jede Pflaume mit einer Scheibe Speck umwickeln.  
 Mit einem Zahnstocher fixieren.  
 Auf ein mit Backpapier belegtes Blech legen.  
-Entweder auf den Grill oder für 12–15 Minuten backen, bis der Speck knusprig ist.  
+Entweder auf den Grill oder für 12-15 Minuten backen, bis der Speck knusprig ist.  
 Heiß servieren.  
 
 Dazu passen Tapas oder Salat.  
