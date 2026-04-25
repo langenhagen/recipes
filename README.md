@@ -1,7 +1,7 @@
 # Recipes
 My, andreasl's cooking recipe blog.
 
-This `jekyll`-based blog contains my curated collection of food recipies.
+This `jekyll`-based blog contains my curated collection of food recipes.
 Find it on GitHub pages at https://langenhagen.github.io/recipes/.
 Enjoy!
 
