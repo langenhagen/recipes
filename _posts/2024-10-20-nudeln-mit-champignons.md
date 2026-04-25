@@ -19,8 +19,8 @@ tags: [pasta, vegan]
 
 Nudeln kochen.  
 Olivenöl in einer Pfanne erhitzen.  
-Zwiebel und Knoblauch darin glasig dünsten.  
-Champignons zugeben und bei mittlerer Hitze ca. 5-7 Minuten braten.  
+Champignons zuerst bei hoher Hitze ohne Rühren goldbraun anbraten und herausnehmen.  
+Zwiebel und Knoblauch glasig dünsten.  
 Mit Salz und Pfeffer würzen.  
 Gemüsebrühe hinzufügen und kurz aufkochen lassen.  
 Zitronensaft und Senf unterrühren.  

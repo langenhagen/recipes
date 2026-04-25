@@ -26,7 +26,9 @@ Zwiebel und Schinken würfeln.
 Beides in einem großen Topf in Butter anbraten.  
 Mehl hinzugeben und leicht bräunen.  
 Sahne und Milch hinzu geben und aufkochen lassen.  
-Eigelbe unter rühren.  
+Topf vom Herd nehmen.  
+Etwas von der heißen Sauce zu den Eigelben geben und verrühren (temperieren).
+Dann die Eigelb-Mischung unter Rühren in die Sauce geben. Nicht mehr aufkochen.  
 Optional Gemüse oder Pilze hinzu geben.  
 Mit Parmesan, Petersilie und Pfeffer und Muskat abschmecken.  
 Nudeln und Sauce in eine Auflaufform geben.  

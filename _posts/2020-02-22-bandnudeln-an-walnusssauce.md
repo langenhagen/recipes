@@ -16,7 +16,8 @@ tags: [pasta]
 - Salz, Pfeffer
 
 Nudeln kochen.  
-Walnüsse, Pinienkerne Knoblauch, Salz und Pfeffer und Parmesan im Mörser zerkleinern.  
+Walnüsse und Pinienkerne in einer Pfanne ohne Fett leicht rösten.  
+Beides dann mit Knoblauch, Salz, Pfeffer und Parmesan im Mörser zerkleinern.  
 Öl und Sahne unterrühren.  
 Nudeln mit der Soße mischen, fertig.  
 

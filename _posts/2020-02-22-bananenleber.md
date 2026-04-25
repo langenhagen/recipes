@@ -21,7 +21,9 @@ tags: [rice, meat]
 Reis kochen.  
 Zwiebel fein würfeln, Leber in mundgerechte Streifen schneiden.  
 Bananen in Scheiben schneiden, Apfel entkernen und sechzehnteln.  
-Zwiebeln glasig andünsten, Leber anbraten.  
+Zwiebeln glasig andünsten und herausnehmen.  
+Leber bei starker Hitze kurz von jeder Seite scharf anbraten (max. 1-2 Minuten pro Seite, innen darf sie noch rosa sein).  
+Zwiebeln in die Pfanne zurück geben.  
 Gewürze hinzu, kurz mitbraten und mit Brühe ablöschen.  
 Apfelstücke hinzu geben.  
 Sahne dazu gießen, aufkochen lassen, und 10 Minuten köcheln lassen.  

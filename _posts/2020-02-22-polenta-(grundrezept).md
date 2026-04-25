@@ -9,7 +9,7 @@ tags: [foundation]
 - 2 Tassen Maismehl
 - 6 Tassen Wasser
 - 3 EL Butter
-- 2 EL Salz
+- 2 TL Salz
 
 Wasser kochen, Salz hinzu.  
 Nach und nach unter Rühren das Maismehl hinzu geben.  

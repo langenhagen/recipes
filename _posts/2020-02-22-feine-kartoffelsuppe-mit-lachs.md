@@ -24,6 +24,7 @@ Hühnerbrühe und Hälfte der Sahne hinzugeben und 15 Minuten weich kochen.
 Lauch putzen, in 3 cm lange Streifen schneiden und mit der Butter nicht zu weich dünsten.  
 Lachs fein würfeln.  
 Kartoffeln pürieren, Lauch und Lachs hinzu und würzen.  
-Restliche Sahne steif schlagen und unter die Suppe ziehen.  
+Suppe auf Teller verteilen.  
+Restliche Sahne steif schlagen und als Topping auf die Suppe geben.  
 Mit dem klein geschnittenen Dill garnieren.  
 Dazu schmeckt Baguette.  

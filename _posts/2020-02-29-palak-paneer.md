@@ -20,7 +20,8 @@ tags: [indian, rice]
 
 Wasser für den Spinat aufsetzen.  
 Reis kochen.  
-Paneer Käse und Zwiebeln würfeln,  Knoblauch und Ingwer schälen und beiseite stellen.  
+Paneer Käse und Zwiebeln würfeln.  
+Knoblauch und Ingwer schälen und beiseite stellen.  
 Spinat mit etwas Salz in kochendes Wasser geben und 2 Minuten kochen.  
 Wasser abgießen und Spinat in eiskaltes Wasser packen um die Farbe des Spinat zu schützen.  
 Spinat mit etwas Knoblauch und Ingwer im Standmixer pürieren.  

@@ -35,4 +35,5 @@ Schlagsahne steif schlagen und unterheben.
 
 Knetteig in einer gefetteten Form auslegen und 2-3cm am Rand hochziehen.  
 Füllung in die Form geben.  
-Kuchen bei 180° C für 1 Stunde backen.  
+Kuchen bei 160° C für 1 Stunde backen.  
+In den letzten 15 Minuten den Ofen leicht öffnen (Holzlöffel in die Tür klemmen), damit der Kuchen langsam abkühlt und nicht reißt.  

@@ -25,6 +25,7 @@ Mehl über die Zwiebeln streuen, anschwitzen und unter Rühren mit Sahne und Br�
 Salz, Pfeffer und Muskat hinzu.  
 5 Minuten köcheln lassen.  
 Gouda reiben, Dill schneiden und beides unter die Sauce rühren.  
+Optional Kürbiswürfel auf einem Blech mit etwas Öl bei 200° C ca. 20 Minuten vorrösten.  
 In Auflaufform abwechselnd Sauce, Lasagneplatten, Lachs und Kürbis schichten.  
 Mit einer Lasagneplatte abschließen und restliche Sauce darüber verteilen.  
 In vorgeheiztem Backofen bei 200° C ca. 45 Minuten backen.  
