@@ -11,11 +11,11 @@ tags: [easy, fast, pasta, sauce, vegan]
 - 2 Knoblauchzehen
 - 3 EL Olivenöl (nach Bedarf, je nach Konsistenz)
 - 2 EL Hefeflocken
-- Salz und Pfeffer nach Geschmack
+- Salz, Pfeffer nach Geschmack
 - Optional 1 EL Weizenkleie
 
 Die getrockneten Tomaten abtropfen lassen.  
 Optional die Pinienkerne in einer Pfanne goldbraun rösten.  
 Alle Zutaten mit einem Mixer geben und gut durch mixen.  
 Je nach Wunsch mehr oder weniger Olivenöl hinzufügen.  
-Mit Salz und Pfeffer abschmecken.
+Mit Salz und Pfeffer abschmecken.  

@@ -16,5 +16,5 @@ Kohl und Hackfleisch in einem großen Topf schichtweise stapeln und mit Salz, Pf
 Brühe dazu gießen und mit Deckel 5 Minuten kochen.  
 Alles in Auflaufform packen und bei 170° C 45 Minuten backen.  
 Gern auch mit grob geriebenem Käse überbacken.  
-  
+
 Dazu schmecken mehlig gekochte Kartoffeln.  

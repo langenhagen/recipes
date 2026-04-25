@@ -26,5 +26,5 @@ Nudeln kochen.
 Sahne hinzu und aufkochen lassen.  
 Sauce mit Muskat, Salz und Pfeffer würzen und bei Bedarf mit Mehl eindicken.  
 Nudeln in Sauce unterrühren.  
-  
+
 Nach Geschmack mit Schnittlauch servieren.  

@@ -13,10 +13,10 @@ tags: [fish, potatoes]
 - Knoblauch
 - 400g Gemüse nach Wahl (z.B. Blumenkohl, Grüne Bohnen, Karotten)
 - Mayonnaise
-- Salz und Pfeffer nach Geschmack
+- Salz, Pfeffer nach Geschmack
 - Zitronensaft
 
-Optional Lachs in einer Honig-Sauce marinieren.
+Optional Lachs in einer Honig-Sauce marinieren.  
 
 Ofen auf 180° C vorheizen.  
 Kartoffeln in feine Scheiben schneiden.  
@@ -33,4 +33,4 @@ In einem Topf dünsten.
 
 Alles zusammen auf einen Teller geben.  
 Nach belieben mit Mayonnaise abrunden.  
-Guten Appetit.
+Guten Appetit.  

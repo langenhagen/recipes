@@ -22,10 +22,10 @@ Safran mahlen, 1 Zwiebel klein hacken.
 Jogurt mit Zitronensaft, Salz, Zwiebel und Safran zu Marinade anrühren und Hühnchen hinzu tun.  
 Hühnchen samt Marinade glatt auf einem Backblech oder einem andern Behältnis ausbreiten.  
 Hühnchen für 40 Minuten bei 200° backen.  
-  
+
 Reis kochen.  
-  
+
 Berberitzen sehr kurz in Butter anmachen und Zucker hinzu geben machen.  
 Berberitzen zum Reis geben.  
-  
+
 Kräuter und die verbliebene Zwiebel können direkt zur Speise gereicht werden.  

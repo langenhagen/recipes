@@ -19,5 +19,5 @@ Nudeln kochen.
 Walnüsse, Pinienkerne Knoblauch, Salz und Pfeffer und Parmesan im Mörser zerkleinern.  
 Öl und Sahne unterrühren.  
 Nudeln mit der Soße mischen, fertig.  
-  
+
 Man kann einen Teil der Walnüsse und Pinienkerne rösten und über den Teller streuen.  

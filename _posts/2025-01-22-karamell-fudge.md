@@ -24,4 +24,4 @@ Mischung in die vorbereitete Form gießen und glattstreichen.
 Fudge vollständig abkühlen lassen.  
 In kleine Würfel schneiden und genießen.  
 
-Hält sich im Kühlschrank 2-3 Wochen.
+Hält sich im Kühlschrank 2-3 Wochen.  

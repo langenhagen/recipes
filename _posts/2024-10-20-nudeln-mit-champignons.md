@@ -25,4 +25,4 @@ Mit Salz und Pfeffer würzen.
 Gemüsebrühe hinzufügen und kurz aufkochen lassen.  
 Zitronensaft und Senf unterrühren.  
 Nudeln abgießen und mit der Champignon-Sauce vermengen.  
-Mit gehackter Petersilie bestreuen und servieren.
+Mit gehackter Petersilie bestreuen und servieren.  

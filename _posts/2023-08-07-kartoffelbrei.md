@@ -2,7 +2,7 @@
 layout: post
 title: "Kartoffelbrei"
 date: 2023-08-07
-tags: []
+tags: [foundation]
 ---
 # Kartoffelbrei
 
@@ -18,4 +18,4 @@ Muskat in der Zwischenzeit reiben.
 Wasser abgießen.  
 Kartoffeln grob stampfen.  
 Butter, Milch und Muskat hinzu.  
-Auf dem Herd weiter stampfen und köcheln lassen bis die gewünschte Konsitenz erreicht ist.
+Auf dem Herd weiter stampfen und köcheln lassen bis die gewünschte Konsistenz erreicht ist.  

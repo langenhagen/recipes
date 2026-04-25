@@ -5,7 +5,7 @@ date: 2024-10-17
 tags: [casserole, easy]
 ---
 # Käsespätzle Auflauf
-Einfacher herzafter soulfood.
+Einfacher herzhafter soulfood.  
 
 - 400g Spätzle (selbstgemacht oder gekauft)
 - 200g geriebener Emmentaler
@@ -21,12 +21,12 @@ Einfacher herzafter soulfood.
 
 Ofen auf 180°C vorheizen.  
 Zwiebeln in Butter bei mittlerer Hitze goldbraun braten.  
-Optional Hackfleich hinzu geben und mit braten.  
+Optional Hackfleisch hinzu geben und mit braten.  
 Sahne und Milch mischen und mit Salz, Pfeffer und Muskatnuss würzen.  
 Spätzle in eine Auflaufform geben.  
-Die gebratenen Zwiebeln und Hackfleich darüber verteilen.  
+Die gebratenen Zwiebeln und Hackfleisch darüber verteilen.  
 Geriebenen Käse gleichmäßig unter die Spätzle geben.  
 Die Sahnemischung über die Spätzle gießen.  
 Den Auflauf ca. 20 Minuten im Ofen backen, bis der Käse goldbraun ist.  
 
-Mit Röstzwiebeln und gehacktem Schnittlauch bestreuen und servieren.
+Mit Röstzwiebeln und gehacktem Schnittlauch bestreuen und servieren.  

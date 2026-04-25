@@ -21,6 +21,6 @@ Mehl hinzu geben.
 1 Teller mit Küchenpapier auslegen.  
 1-2 EL Öl in der Pfanne heiß werden lassen, 1 EL vom Teig hinein geben.  
 Kurz frittieren und auf den Teller ablegen und wiederholen.  
-  
+
 Warm servieren.  
 Dazu passt Puderzucker.  

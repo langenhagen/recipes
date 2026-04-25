@@ -26,5 +26,5 @@ Mit Gemüsebrühe ablöschen und ca. 15 Min köcheln lassen.
 Alles mit Honig, Crème fraîche, etwas Butter und Zitronenschale leicht pürieren.  
 Salz, Pfeffer, Zitronensaft und ggf. noch etwas Honig hinzu.  
 Mit Petersilie garnieren.  
-  
+
 Dazu passen separat angebratene Chilis und Schrimps.  

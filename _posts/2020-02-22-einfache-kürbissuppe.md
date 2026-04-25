@@ -19,5 +19,5 @@ Kürbis, Zwiebeln und Knoblauch grob schneiden.
 Alles in einem Topf mit Öl andünsten.  
 Brühe hinzu geben und alles für 15 Minuten kochen.  
 Nach dem Kochen Suppe pürieren und mit Sahne verfeinern.  
-  
+
 Mit Baguette servieren.  

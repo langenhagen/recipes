@@ -6,7 +6,7 @@ tags: [baking, sweet]
 ---
 # Schokoladenkuchen
 
-Feuchte Zutaten für den Teig:
+Feuchte Zutaten für den Teig:  
 - 220g weiche Butter + etwas Butter für die Form
 - 160g Zucker
 - 5 Eier
@@ -14,13 +14,13 @@ Feuchte Zutaten für den Teig:
 - etwas Vanille
 - 1 Prise Salz
 
-Trockene Zutaten für den Teig:
+Trockene Zutaten für den Teig:  
 - 170g Mehl
 - 2 EL Kakaopulver
 - 3 TL Backpulver
 - 100g geraspelte Zartbitterschokolade
 
-Für die Glasur:
+Für die Glasur:  
 - 200g Zartbitterschokolade
 - etwas Kakaopulver
 
@@ -34,4 +34,4 @@ Alles für 35 Minuten bei 160° backen.
 
 Restliche Schokolade langsam erhitzen bis sie flüssig ist.  
 Flüssige Schokomasse über den Kuchen verteilen.  
-Etwas Kakaopulver mit einem Sieb auf die Glasur verstreuen.
+Etwas Kakaopulver mit einem Sieb auf die Glasur verstreuen.  

@@ -5,7 +5,7 @@ date: 2025-02-18
 tags: [pasta]
 ---
 # Sommerliche Pasta mit Zucchini und Tomaten
-Frisch, leicht und schnell gemacht.
+Frisch, leicht und schnell gemacht.  
 
 - 200g Pasta (z. B. Tagliatelle oder Penne)
 - 1 Zucchini
@@ -15,7 +15,7 @@ Frisch, leicht und schnell gemacht.
 - 100g Ricotta
 - Zest einer halben Zitrone
 - Frische Basilikumblätter
-- Salz, Pfeffer  
+- Salz, Pfeffer
 
 Pasta in Salzwasser al dente kochen.  
 Zucchini in dünne Halbmonde schneiden, Tomaten würfeln.  

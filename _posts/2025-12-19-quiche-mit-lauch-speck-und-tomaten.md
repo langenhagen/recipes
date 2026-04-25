@@ -5,15 +5,15 @@ date: 2025-12-19
 tags: [meat, savoury]
 ---
 # Quiche mit Lauch, Speck und Tomaten
-Herzhaft und klassisch.
+Herzhaft und klassisch.  
 
-Für den Mürbeteig:
+Für den Mürbeteig:  
 - 200g Mehl
 - 100g kalte Butter
 - 1 Ei
 - 1 Prise Salz
 
-Für die Füllung:
+Für die Füllung:  
 - 2-3 Stangen Lauch, in Ringe geschnitten
 - 2-3 Tomaten, gewürfelt (optional)
 - 150g Speckwürfel
@@ -23,7 +23,7 @@ Für die Füllung:
 - Salz, Pfeffer
 - Muskatnuss
 
-Mehl, Butter und Salz mit den Fingern verneten.  
+Mehl, Butter und Salz mit den Fingern verkneten.  
 Ei zugeben und alles zu einem glatten Teig verkneten.  
 Teig zu einer Kugel formen.  
 30 Minuten kaltstellen.  

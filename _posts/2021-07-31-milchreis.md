@@ -6,7 +6,6 @@ tags: [rice, sweet]
 ---
 # Milchreis
 
-
 - 1l Vollmilch
 - 250g Milchreis
 - 4 EL Zucker

@@ -23,5 +23,5 @@ Hühnerfleisch von den Knochen abgetrennten und Fleisch wieder in die Suppe tun.
 Etwas kochen lassen.  
 Erbsen hinzu.  
 Salzen, pfeffern.  
-  
+
 Kann man auch sehr gut mit Kartoffeln oder Nudeln machen.  

@@ -4,7 +4,7 @@ title: Tomaten-Mett-Pfanne mit Gnocchi
 date: 2020-02-22
 tags: [meat]
 ---
-# Tomaten-Mett Pfanne mit Gnocchi
+# Tomaten-Mett-Pfanne mit Gnocchi
 
 - 1 große Zwiebel
 - 1kg kleine Tomaten
@@ -22,6 +22,6 @@ Pinienkerne in einer großen Pfanne ohne Fett rösten und danach rausnehmen.
 Öl in Pfanne erhitzen Mett krümelig anbraten, Zwiebel und Tomaten dazu.  
 Mit Salz, Pfeffer und etwas Honig würzen und dann zugedeckt 10-15 Min schmoren.  
 Basilikum waschen, grob schneiden und unterheben.  
-  
+
 Butter in Pfanne erhitzen, Gnocchi darin kurz anbraten.  
 Feta in Tomatenpfanne rein bröckeln und Pinienkerne hinzu, mit den Gnocchi servieren.  

@@ -5,11 +5,11 @@ date: 2025-01-02
 tags: [easy, fast, sauce, vegan]
 ---
 # Erdnusssauce
-Sehr lecker. Zutaten für 1 Portion.
+Sehr lecker. Zutaten für 1 Portion.  
 
-- 2 EL Erdnussmus  
-- 1 EL Limettensaft  
-- 1 EL Sojasoße  
+- 2 EL Erdnussmus
+- 1 EL Limettensaft
+- 1 EL Sojasoße
 - 2-3 EL Wasser, je nach gewünschter Konsistenz
 - 1/2 TL geriebener Ingwer (optional)
 - 1 Knoblauchzehe, fein gehackt oder gepresst (optional)

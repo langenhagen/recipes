@@ -23,6 +23,6 @@ Eigelb und Salz ein bisschen vom Zitronensaft mit dem Stabmixer schaumig schlage
 Reduktion zum Eigelb geben und weiter schlagen.  
 Butter langsam hinzu und weiter schlagen.  
 Mit Salz und Zitronensaft abschmecken und fertig.  
-  
+
 Man kann den Schritt mit den Schalotten, Lorberblättern, Pfeffer auch weg lassen.  
 Dann einfach etwas Weißweinessig und Wasser zum Eigelb hinzu geben.  

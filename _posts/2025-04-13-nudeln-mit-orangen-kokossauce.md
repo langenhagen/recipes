@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Nudeln mit Orangen-Kokosssauce"
+title: "Nudeln mit Orangen-Kokossauce"
 date: 2025-04-13
 tags: [pasta]
 ---
-# Nudeln mit Orangen-Kokosssauce
+# Nudeln mit Orangen-Kokossauce
 
 - Saft einer Orange
 - 150ml Kokosmilch

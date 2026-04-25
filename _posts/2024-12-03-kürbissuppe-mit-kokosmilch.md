@@ -21,4 +21,4 @@ Gemüsebrühe angießen, alles aufkochen und ca. 15 Minuten köcheln lassen.
 Kokosmilch einrühren und die Suppe pürieren.  
 Mit Salz, Pfeffer und Muskatnuss abschmecken.  
 
-Dazu passt gebratener Speck.
+Dazu passt gebratener Speck.  

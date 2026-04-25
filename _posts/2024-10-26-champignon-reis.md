@@ -5,7 +5,7 @@ date: 2024-10-26
 tags: [rice]
 ---
 # Champignon-Reis
-Lecker und füllend.
+Lecker und füllend.  
 
 - 200g Champignons, in Scheiben geschnitten
 - 150g Reis
@@ -21,7 +21,7 @@ Lecker und füllend.
 Öl in einem Topf bei erhitzen.  
 Gehackte Zwiebeln und Knoblauch hinzugeben und dünsten, bis sie glasig sind.  
 Optional Schinken hinzu geben.  
-Champignons hinzufügen.
+Champignons hinzufügen.  
 Alles anbraten, bis alles leicht gebräunt ist und die Pilze ihre Flüssigkeit abgegeben haben.  
 Ungekochten Reis dazugeben und 1-2 Minuten mitrösten, bis er glasig wird.  
 Mit der Gemüsebrühe ablöschen und den Reis bei niedriger Hitze köcheln lassen, bis die Flüssigkeit aufgesogen ist und der Reis gar ist.  

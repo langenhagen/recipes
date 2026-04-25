@@ -16,7 +16,7 @@ tags: [soup, vegan]
 - 1 Liter Gemüsebrühe
 - 2 EL Olivenöl
 - Limettensaft
-- Salz und Pfeffer nach Geschmack
+- Salz, Pfeffer nach Geschmack
 - Frische Petersilie zum Garnieren
 
 Olivenöl in einem großen Topf erhitzen.  
@@ -25,4 +25,4 @@ Tomatenmark, Kreuzkümmel und Paprikapulver dazugeben.
 Linsen und Gemüsebrühe hinzufügen und alles etwa 15-20 Minuten köcheln lassen.  
 Suppe mit Salz und Pfeffer abschmecken.  
 
-Suppe auf Teller servieren, Limettensaft hinzu und mit Petersilie garnieren.
+Suppe auf Teller servieren, Limettensaft hinzu und mit Petersilie garnieren.  

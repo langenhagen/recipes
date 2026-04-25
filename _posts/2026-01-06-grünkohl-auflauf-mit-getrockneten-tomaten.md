@@ -5,7 +5,7 @@ date: 2026-01-06
 tags: [casserole, pasta, savoury]
 ---
 # Grünkohl-Auflauf mit getrockneten Tomaten
-Herzhaft, cremig und perfekt für kalte Tage.
+Herzhaft, cremig und perfekt für kalte Tage.  
 
 - 250g Penne
 - 300g Grünkohl (am besten frisch, alternativ TK)

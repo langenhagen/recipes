@@ -5,7 +5,7 @@ date: 2024-07-22
 tags: [easy, sweet, vegan]
 ---
 # Energiebällchen
-Kleine hochkalorige Bomben.
+Kleine hochkalorige Bomben.  
 
 - 1 Tasse Haferflocken, Kleinblatt
 - 1/2 Tasse Erdnussbutter
@@ -18,4 +18,4 @@ Kleine hochkalorige Bomben.
 
 Alle Zutaten in einer Schüssel vermengen.  
 Kleine Bällchen formen.  
-Mindestens 30 Minuten im Kühlschrank fest werden lassen.
+Mindestens 30 Minuten im Kühlschrank fest werden lassen.  

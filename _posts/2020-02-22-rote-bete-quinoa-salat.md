@@ -26,5 +26,5 @@ Quinoa vom Herd nehmen und 10 Minuten quellen lassen, leicht salzen und mit etwa
 Zitronensaft mit der gleichen Menge Olivenöl vermischen, den Agavendicksaft zugeben und alles mit Salz und Pfeffer vermischen.  
 Rote Bete, Feta-Käse und den Apfel in mundgerechte Stücke schneiden.  
 Alles mit der Quinoa und dem Dressing vermischen und abkühlen lassen.  
-  
+
 Die Walnüsse anrösten und über den Salat streuen.  
