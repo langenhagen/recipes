@@ -9,7 +9,7 @@ tags: [meat]
 - 800g frische grüne Bohnen
 - 500g Rindfleisch/Hammelfleisch
 - 500g Zwiebeln
-- ½ Liter Brühe
+- ½l Brühe
 - 10 Knoblauchzehen
 - 1 TL Paprikapulver, süß
 - ½ grüne Paprikaschote

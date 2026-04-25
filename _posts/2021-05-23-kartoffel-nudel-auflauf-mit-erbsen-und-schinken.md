@@ -17,7 +17,7 @@ tags: [casserole]
 - 1 TL Instantbrühe
 - Salz, Pfeffer, Muskat
 
-3 Liter Wasser aufkochen.  
+3l Wasser aufkochen.  
 2 EL Salz und die Instantbrühe hinzu geben.  
 Kartoffeln in kleine Würfel schneiden und ins kochende Wasser geben.  
 Nudeln nach ein paar Minuten hinzu geben und kurz mitkochen.  

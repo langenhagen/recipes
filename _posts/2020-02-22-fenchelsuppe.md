@@ -9,7 +9,7 @@ tags: [soup]
 - 1 Zwiebel
 - 750g Fenchel
 - Butter
-- 1 Liter Gemüsebrühe
+- 1l Gemüsebrühe
 - 200g Schlagsahne
 - Honig
 - Salz, Pfeffer

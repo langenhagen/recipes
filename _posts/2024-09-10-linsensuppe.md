@@ -13,7 +13,7 @@ tags: [soup, vegan]
 - 2 EL Tomatenmark
 - 1 TL Kreuzkümmel
 - 1 TL Paprikapulver
-- 1 Liter Gemüsebrühe
+- 1l Gemüsebrühe
 - 2 EL Olivenöl
 - Limettensaft
 - Salz, Pfeffer nach Geschmack

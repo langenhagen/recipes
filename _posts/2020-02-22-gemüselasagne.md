@@ -24,7 +24,7 @@ tags: [casserole]
 - Salz, Pfeffer
 - 4 EL Butter
 - 4 EL Mehl
-- ¾ Liter Milch
+- ¾l Milch
 
 Alles Gemüse klein würfeln, Lauch in Streifen schneiden, Knoblauch fein hacken.  
 Alles Gemüse ausser Tomaten mit Olivenöl im Topf andünsten.  
