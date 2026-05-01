@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Write the path to the most recently accessed post to stdout.
 #
 # author: andreasl

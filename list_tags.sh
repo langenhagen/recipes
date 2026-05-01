@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # List the existing tags used throughout the posts.
 #
 # author: andreasl

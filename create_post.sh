@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Create a new jekyll post with the current date and the given title,
 # print the path to the post file
 # and open the new post file in an editor.

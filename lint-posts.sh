@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Lint the posts against stylistic errors.
 #
 # author: andreasl
