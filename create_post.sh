@@ -7,17 +7,17 @@
 
 post_title="$*"
 if [[ "$1" =~ -h|--help ]] || [ -z "$post_title" ]; then
-    printf "usage:  ${0} <post-title>\n"
+    printf 'usage:  %s <post-title>\n' "$0"
     exit 0
 fi
 
 repo_dir="$(git rev-parse --show-toplevel)"
 post_date="$(date '+%Y-%m-%d')"
-title_slug="$(printf -- "$post_title" | sed -E 's/[^a-zA-Z0-9]+/-/g' | tr "[:upper:]" "[:lower:]")"
+title_slug="$(printf '%s' "$post_title" | sed -E 's/[^a-zA-Z0-9]+/-/g' | tr "[:upper:]" "[:lower:]")"
 post_path="${repo_dir}/_posts/${post_date}-${title_slug}.md"
 [ -e "$post_path" ] && printf 'Error: Post exists already.\n' && exit 2
 
-IFS= read -r -d '' front_matter << EOF
+IFS= read -r -d '' front_matter <<EOF
 ---
 layout: post
 title: "${*}"
@@ -27,9 +27,9 @@ tags: []
 # ${*}
 EOF
 
-printf -- "$front_matter" > "$post_path"
+printf '%s' "$front_matter" >"$post_path"
 
-printf -- '%s\n' "$post_path"
+printf '%s\n' "$post_path"
 subl "$post_path"
 
 printf '\nConsider following tags:'
